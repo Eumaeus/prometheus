@@ -1,0 +1,2204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title type="work" n="PB">Prometheus Bound</title>
+                <title type="sub">Machine readable text</title>
+                <author n="Aesch.">Aeschylus</author>
+                <editor role="editor" n="Smyth">Herbert Weir Smyth, Ph.D.</editor>
+                <sponsor>Perseus Project, Tufts University</sponsor>
+                <principal>Gregory Crane</principal>
+                <respStmt>
+                    <resp>Prepared under the supervision of</resp>
+                    <name full="yes" instant="false">Lisa Cerrato</name>
+                    <name full="yes" instant="false">William Merrill</name>
+                    <name full="yes" instant="false">Elli Mylonas</name>
+                    <name full="yes" instant="false">David Smith</name>
+                </respStmt>
+                <funder n="org:AnnCPB">The Annenberg CPB/Project</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Trustees of Tufts University</publisher>
+                <pubPlace>Medford, MA</pubPlace>
+                <authority>Perseus Project</authority>
+
+            </publicationStmt>
+            <sourceDesc default="false">
+                <biblStruct default="false" status="draft">
+                    <monogr>
+                        <author>Aeschylus</author>
+                        <title>Aeschylus, with an English translation by Herbert Weir Smyth, Ph. D.
+                            in two volumes. 1.Prometheus</title>
+                        <imprint>
+                            <pubPlace>Cambridge</pubPlace>
+                            <publisher>Cambridge, Mass., Harvard University Press; London, William
+                                Heinemann, Ltd.</publisher>
+                            <date instant="false">1926</date>
+                        </imprint>
+
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+
+        <profileDesc>
+            <langUsage default="false">
+                <language ident="grc">Greek</language>
+                <language ident="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="grc">
+        <body>
+
+
+
+
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">Χθονὸς μὲν ἐς τηλουρὸν ἥκομεν πέδον,</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">Σκύθην ἐς οἷμον, ἄβατον εἰς ἐρημίαν.</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">Ἥφαιστε, σοὶ δὲ χρὴ μέλειν ἐπιστολὰς</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ἅς σοι πατὴρ ἐφεῖτο, τόνδε πρὸς πέτραις</said></l>
+            <l cite="5" ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ὑψηλοκρήμνοις τὸν λεωργὸν ὀχμάσαι</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ἀδαμαντίνων δεσμῶν ἐν ἀρρήκτοις πέδαις.</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">τὸ σὸν γὰρ ἄνθος, παντέχνου πυρὸς σέλας,</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">θνητοῖσι κλέψας ὤπασεν. τοιᾶσδέ τοι</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ἁμαρτίας σφε δεῖ θεοῖς δοῦναι δίκην,</said></l>
+            <l cite="10" ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ὡς ἂν διδαχθῇ τὴν Διὸς τυραννίδα</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">στέργειν, φιλανθρώπου δὲ παύεσθαι τρόπου.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">Κράτος Βία τε, σφῷν μὲν ἐντολὴ Διὸς</said></l>
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">ἔχει τέλος δὴ κοὐδὲν ἐμποδὼν ἔτι:</said></l>
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">ἐγὼ δʼ ἄτολμός εἰμι συγγενῆ θεὸν</said></l>
+            <l cite="15" ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">δῆσαι βίᾳ φάραγγι πρὸς
+                δυσχειμέρῳ.</said></l>
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">πάντως δʼ ἀνάγκη τῶνδέ μοι τόλμαν
+                σχεθεῖν:</said></l>
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">ἐξωριάζειν γὰρ πατρὸς λόγους βαρύ.</said></l>
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true"> τῆς ὀρθοβούλου Θέμιδος αἰπυμῆτα παῖ,</said></l>
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">ἄκοντά σʼ ἄκων δυσλύτοις χαλκεύμασι</said></l>
+            <l cite="20" ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">προσπασσαλεύσω τῷδʼ ἀπανθρώπῳ
+                πάγῳ</said></l>
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">ἵνʼ οὔτε φωνὴν οὔτε του μορφὴν βροτῶν</said></l>
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">ὄψει, σταθευτὸς δʼ ἡλίου φοίβῃ φλογὶ</said></l>
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">χροιᾶς ἀμείψεις ἄνθος. ἀσμένῳ δέ σοι</said></l>
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">ἡ ποικιλείμων νὺξ ἀποκρύψει φάος,</said></l>
+            <l cite="25" ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">πάχνην θʼ ἑῴαν ἥλιος σκεδᾷ
+                πάλιν:</said></l>
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">ἀεὶ δὲ τοῦ παρόντος ἀχθηδὼν κακοῦ</said></l>
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">τρύσει σʼ: ὁ λωφήσων γὰρ οὐ πέφυκέ πω.</said></l>
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true"> τοιαῦτʼ ἐπηύρω τοῦ φιλανθρώπου τρόπου.</said></l>
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">θεὸς θεῶν γὰρ οὐχ ὑποπτήσσων χόλον</said></l>
+            <l cite="30" ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">βροτοῖσι τιμὰς ὤπασας πέρα
+                δίκης.</said></l>
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">ἀνθʼ ὧν ἀτερπῆ τήνδε φρουρήσεις πέτραν</said></l>
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">ὀρθοστάδην, ἄυπνος, οὐ κάμπτων γόνυ:</said></l>
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">πολλοὺς δʼ ὀδυρμοὺς καὶ γόους ἀνωφελεῖς</said></l>
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">φθέγξῃ: Διὸς γὰρ δυσπαραίτητοι φρένες.</said></l>
+            <l cite="35" ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">ἅπας δὲ τραχὺς ὅστις ἂν νέον
+                κρατῇ.</said></l>
+
+
+
+
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">εἶεν, τί μέλλεις καὶ κατοικτίζῃ μάτην;</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">τί τὸν θεοῖς ἔχθιστον οὐ στυγεῖς θεόν,</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ὅστις τὸ σὸν θνητοῖσι προὔδωκεν γέρας;</said></l>
+
+
+
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">τὸ συγγενές τοι δεινὸν ἥ θʼ ὁμιλία.</said></l>
+
+
+
+            <l cite="40" ana="episode"><said who="Κράτος" aloud="unknown" direct="true">σύμφημʼ: ἀνηκουστεῖν δὲ τῶν πατρὸς
+                    λόγων</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">οἷόν τε πῶς; οὐ τοῦτο δειμαίνεις πλέον;</said></l>
+
+
+
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">αἰεί γε δὴ νηλὴς σὺ καὶ θράσους πλέως.</said></l>
+
+
+
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ἄκος γὰρ οὐδὲν τόνδε θρηνεῖσθαι. σὺ δὲ</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">τὰ μηδὲν ὠφελοῦντα μὴ πόνει μάτην.</said></l>
+
+
+
+            <l cite="45" ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">ὦ πολλὰ μισηθεῖσα χειρωναξία.</said></l>
+
+
+
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">τί νιν στυγεῖς; πόνων γὰρ ὡς ἁπλῷ λόγῳ</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">τῶν νῦν παρόντων οὐδὲν αἰτία τέχνη.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">ἔμπας τις αὐτὴν ἄλλος ὤφελεν λαχεῖν.</said></l>
+
+
+
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ἅπαντʼ ἐπαχθῆ πλὴν θεοῖσι κοιρανεῖν:</said></l>
+            <l cite="50" ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ἐλεύθερος γὰρ οὔτις ἐστὶ πλὴν
+                Διός.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">ἔγνωκα τοῖσδε κοὐδὲν ἀντειπεῖν ἔχω.</said></l>
+
+
+
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">οὔκουν ἐπείξῃ τῷδε δεσμὰ περιβαλεῖν,</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ὡς μή σʼ ἐλινύοντα προσδερχθῇ πατήρ;</said></l>
+
+
+
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">καὶ δὴ πρόχειρα ψάλια δέρκεσθαι πάρα.</said></l>
+
+
+
+            <l cite="55" ana="episode"><said who="Κράτος" aloud="unknown" direct="true">βαλών νιν ἀμφὶ χερσὶν ἐγκρατεῖ
+                σθένει</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ῥαιστῆρι θεῖνε, πασσάλευε πρὸς πέτραις.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">περαίνεται δὴ κοὐ ματᾷ τοὔργον τόδε.</said></l>
+
+
+
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ἄρασσε μᾶλλον, σφίγγε, μηδαμῇ χάλα.</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">δεινὸς γὰρ εὑρεῖν κἀξ ἀμηχάνων πόρον.</said></l>
+
+
+
+            <l cite="60" ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">ἄραρεν ἥδε γʼ ὠλένη δυσεκλύτως.</said></l>
+
+
+
+
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">καὶ τήνδε νῦν πόρπασον ἀσφαλῶς, ἵνα</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">μάθῃ σοφιστὴς ὢν Διὸς νωθέστερος.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">πλὴν τοῦδʼ ἂν οὐδεὶς ἐνδίκως μέμψαιτό
+                μοι.</said></l>
+
+
+
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ἀδαμαντίνου νῦν σφηνὸς αὐθάδη γνάθον</said></l>
+            <l cite="65" ana="episode"><said who="Κράτος" aloud="unknown" direct="true">στέρνων διαμπὰξ πασσάλευʼ
+                ἐρρωμένως.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">αἰαῖ, Προμηθεῦ, σῶν ὑπερστένω πόνων.</said></l>
+
+
+
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">σὺ δʼ αὖ κατοκνεῖς τῶν Διός τʼ ἐχθρῶν
+                ὕπερ</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">στένεις; ὅπως μὴ σαυτὸν οἰκτιεῖς ποτε.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">ὁρᾷς θέαμα δυσθέατον ὄμμασιν.</said></l>
+
+
+
+            <l cite="70" ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ὁρῶ κυροῦντα τόνδε τῶν ἐπαξίων.</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ἀλλʼ ἀμφὶ πλευραῖς μασχαλιστῆρας βάλε.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">δρᾶν ταῦτʼ ἀνάγκη, μηδὲν ἐγκέλευʼ ἄγαν.</said></l>
+
+
+
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ἦ μὴν κελεύσω κἀπιθωύξω γε πρός.</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">χώρει κάτω, σκέλη δὲ κίρκωσον βίᾳ.</said></l>
+
+
+
+            <l cite="75" ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">καὶ δὴ πέπρακται τοὔργον οὐ μακρῷ
+                    πόνῳ.</said></l>
+
+
+
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ἐρρωμένως νῦν θεῖνε διατόρους πέδας:</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ὡς οὑπιτιμητής γε τῶν ἔργων βαρύς.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">ὅμοια μορφῇ γλῶσσά σου γηρύεται.</said></l>
+
+
+
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">σὺ μαλθακίζου, τὴν δʼ ἐμὴν αὐθαδίαν</said></l>
+            <l cite="80" ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ὀργῆς τε τραχύτητα μὴ ʼπίπλησσέ
+                μοι.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἥφαιστος" aloud="unknown" direct="true">στείχωμεν, ὡς κώλοισιν ἀμφίβληστρʼ
+                ἔχει.</said></l>
+
+
+
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ἐνταῦθα νῦν ὕβριζε καὶ θεῶν γέρα</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">συλῶν ἐφημέροισι προστίθει. τί σοι</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">οἷοί τε θνητοὶ τῶνδʼ ἀπαντλῆσαι πόνων;</said></l>
+            <l cite="85" ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ψευδωνύμως σε δαίμονες Προμηθέα</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">καλοῦσιν: αὐτὸν γάρ σε δεῖ προμηθέως,</said></l>
+            <l ana="episode"><said who="Κράτος" aloud="unknown" direct="true">ὅτῳ τρόπῳ τῆσδʼ ἐκκυλισθήσῃ τέχνης.</said></l>
+
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὦ δῖος αἰθὴρ καὶ ταχύπτεροι πνοαί,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ποταμῶν τε πηγαί, ποντίων τε κυμάτων</said></l>
+            <l cite="90" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀνήριθμον γέλασμα, παμμῆτόρ τε
+                γῆ,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">καὶ τὸν πανόπτην κύκλον ἡλίου καλῶ.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἴδεσθέ μʼ οἷα πρὸς θεῶν πάσχω θεός.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">δέρχθηθʼ οἵαις αἰκείαισιν</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">διακναιόμενος τὸν μυριετῆ</said></l>
+
+
+
+
+
+            <l cite="95" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">χρόνον ἀθλεύσω.</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τοιόνδʼ ὁ νέος ταγὸς μακάρων</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐξηῦρʼ ἐπʼ ἐμοὶ δεσμὸν ἀεικῆ.</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">φεῦ φεῦ, τὸ παρὸν τό τʼ ἐπερχόμενον</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">πῆμα στενάχω, πῇ ποτε μόχθων</said></l>
+            <l cite="100" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">χρὴ τέρματα τῶνδʼ ἐπιτεῖλαι.</said></l>
+
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">καίτοι τί φημι; πάντα προυξεπίσταμαι</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">σκεθρῶς τὰ μέλλοντʼ, οὐδέ μοι
+                ποταίνιον</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">πῆμʼ οὐδὲν ἥξει. τὴν πεπρωμένην δὲ
+                χρὴ</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">αἶσαν φέρειν ὡς ῥᾷστα, γιγνώσκονθʼ
+                ὅτι</said></l>
+            <l cite="105" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τὸ τῆς ἀνάγκης ἔστʼ ἀδήριτον
+                    σθένος.</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀλλʼ οὔτε σιγᾶν οὔτε μὴ σιγᾶν τύχας</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">οἷόν τέ μοι τάσδʼ ἐστί. θνητοῖς γὰρ
+                γέρα</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">πορὼν ἀνάγκαις ταῖσδʼ ἐνέζευγμαι
+                τάλας.</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ναρθηκοπλήρωτον δὲ θηρῶμαι πυρὸς</said></l>
+            <l cite="110" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">πηγὴν κλοπαίαν, ἣ διδάσκαλος
+                    τέχνης</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">πάσης βροτοῖς πέφηνε καὶ μέγας πόρος.</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τοιῶνδε ποινὰς ἀμπλακημάτων τίνω</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ὑπαιθρίοις δεσμοῖς πεπασσαλευμένος.</said></l>
+
+
+
+
+
+
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἆ ἆ ἔα ἔα.</said></l>
+            <l cite="115" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τίς ἀχώ, τίς ὀδμὰ προσέπτα μʼ
+                    ἀφεγγής,</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">θεόσυτος, ἢ βρότειος, ἢ κεκραμένη;</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἵκετο τερμόνιον ἐπὶ πάγον</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">πόνων ἐμῶν θεωρός, ἢ τί δὴ θέλων;</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ὁρᾶτε δεσμώτην με δύσποτμον θεόν</said></l>
+            <l cite="120" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τὸν Διὸς ἐχθρόν, τὸν πᾶσι θεοῖς</said></l>
+
+
+
+
+
+
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">διʼ ἀπεχθείας ἐλθόνθʼ ὁπόσοι</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τὴν Διὸς αὐλὴν εἰσοιχνεῦσιν,</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">διὰ τὴν λίαν φιλότητα βροτῶν.</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">φεῦ φεῦ, τί ποτʼ αὖ κινάθισμα κλύω</said></l>
+            <l cite="125" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">πέλας οἰωνῶν; αἰθὴρ δʼ
+                ἐλαφραῖς</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">πτερύγων ῥιπαῖς ὑποσυρίζει.</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">πᾶν μοι φοβερὸν τὸ προσέρπον.</said></l>
+
+
+
+
+
+
+
+
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">μηδὲν φοβηθῇς: φιλία</said></l>
+            <seg n="128b" ana="strophe"><said who="Χορός" aloud="unknown" direct="true">γὰρ ἅδε τάξις πτερύγων</said></seg>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">θοαῖς ἁμίλλαις προσέβα</said></l>
+            <l cite="130" ana="strophe"><said who="Χορός" aloud="unknown" direct="true">τόνδε πάγον, πατρῴας</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">μόγις παρειποῦσα φρένας.</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">κραιπνοφόροι δέ μʼ ἔπεμψαν αὖραι:</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">κτύπου γὰρ ἀχὼ χάλυβος</said></l>
+            <seg n="130b" ana="strophe"><said who="Χορός" aloud="unknown" direct="true">διῇξεν ἄντρων μυχόν, ἐκ</said></seg>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">δʼ ἔπληξέ μου τὰν θεμερῶπιν αἰδῶ:</said></l>
+            <l cite="135" ana="strophe"><said who="Χορός" aloud="unknown" direct="true">σύθην δʼ ἀπέδιλος ὄχῳ πτερωτῷ.</said></l>
+
+
+
+
+
+
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">αἰαῖ αἰαῖ,</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τῆς πολυτέκνου Τηθύος ἔκγονα,</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τοῦ περὶ πᾶσάν θʼ εἱλισσομένου</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">χθόνʼ ἀκοιμήτῳ ῥεύματι παῖδες</said></l>
+            <l cite="140" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">πατρὸς, Ὠκεανοῦ,</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">δέρχθητʼ, ἐσίδεσθʼ οἵῳ δεσμῷ,</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">προσπορπατὸς τῆσδε φάραγγος</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">σκοπέλοις ἐν ἄκροις</said></l>
+            <seg n="143b" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">φρουρὰν ἄζηλον ὀχήσω.</said></seg>
+
+
+
+
+
+
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">λεύσσω, Προμηθεῦ: φοβερὰ</said></l>
+            <l cite="145" ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">δʼ ἐμοῖσιν ὄσσοις ὀμίχλα</said></l>
+            <seg n="145a" ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">προσῇξε πλήρης δακρύων</said></seg>
+            <seg n="145b" ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">σὸν δέμας εἰσιδούσᾳ</said></seg>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">πέτραις προσαυαινόμενον</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">ταῖσδʼ ἀδαμαντοδέτοισι λύμαις.</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">νέοι γὰρ οἰακονόμοι</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">κρατοῦσʼ, Ὀλύμπου: νεοχμοῖς</said></l>
+            <l cite="150" ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">δὲ δὴ νόμοις Ζεὺς ἀθέτως
+                κρατύνει.</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">τὰ πρὶν δὲ πελώρια νῦν ἀιστοῖ.</said></l>
+
+
+
+
+
+
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">εἰ γάρ μʼ ὑπὸ γῆν νέρθεν θʼ Ἅιδου</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τοῦ νεκροδέγμονος εἰς ἀπέρατον</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">Τάρταρον ἧκεν,</said></l>
+            <l cite="155" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">δεσμοῖς ἀλύτοις ἀγρίως
+                πελάσας,</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ὡς μήτε θεὸς μήτε τις ἄλλος</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τοῖσδʼ ἐπεγήθει.</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">νῦν δʼ αἰθέριον κίνυγμʼ ὁ τάλας</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐχθροῖς ἐπίχαρτα πέπονθα.</said></l>
+
+
+
+
+
+
+            <l cite="160" ana="strophe"><said who="Χορός" aloud="unknown" direct="true">τίς ὧδε τλησικάρδιος</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">θεῶν, ὅτῳ τάδʼ ἐπιχαρῆ;</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">τίς οὐ ξυνασχαλᾷ κακοῖς</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">τεοῖσι, δίχα γε Διός; ὁ δʼ ἐπικότως ἀεὶ</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">θέμενος ἄγναμπτον νόον</said></l>
+            <l cite="165" ana="strophe"><said who="Χορός" aloud="unknown" direct="true">δάμναται Οὐρανίαν</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">γένναν, οὐδὲ λήξει, πρὶν ἂν ἢ κορέσῃ κέαρ ἢ παλάμᾳ
+                    τινὶ</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">τὰν δυσάλωτον ἕλῃ τις ἀρχάν.</said></l>
+
+
+
+
+
+
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἦ μὴν ἔτʼ ἐμοῦ, καίπερ κρατεραῖς</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐν γυιοπέδαις αἰκιζομένου,</said></l>
+            <l cite="170" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">χρείαν ἕξει μακάρων πρύτανις,</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">δεῖξαι τὸ νέον βούλευμʼ ὑφʼ ὅτου</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">σκῆπτρον τιμάς τʼ ἀποσυλᾶται.</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">καί μʼ οὔτι μελιγλώσσοις πειθοῦς</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐπαοιδαῖσιν θέλξει, στερεάς τʼ</said></l>
+            <l cite="175" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">οὔποτʼ ἀπειλὰς πτήξας τόδʼ
+                ἐγὼ</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">καταμηνύσω,</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">πρὶν ἂν ἐξ ἀγρίων δεσμῶν χαλάσῃ</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ποινάς τε τίνειν</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τῆσδʼ αἰκείας ἐθελήσῃ.</said></l>
+
+
+
+
+
+
+            <l cite="180" ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">σὺ μὲν θρασύς τε καὶ πικραῖς</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">δύαισιν οὐδὲν ἐπιχαλᾷς,</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">ἄγαν δʼ ἐλευθεροστομεῖς.</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">ἐμὰς δὲ φρένας ἐρέθισε διάτορος φόβος:</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">δέδια δʼ ἀμφὶ σαῖς τύχαις,</said></l>
+            <l cite="185" ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">πᾷ ποτε τῶνδε πόνων</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">χρή σε τέρμα κέλσαντʼ</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">ἐσιδεῖν: ἀκίχητα γὰρ ἤθεα καὶ
+                κέαρ</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">ἀπαράμυθον ἔχει Κρόνου παῖς.</said></l>
+
+
+
+
+
+
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">οἶδʼ ὅτι τραχὺς καὶ παρʼ ἑαυτῷ</said></l>
+            <l cite="190" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τὸ δίκαιον ἔχων Ζεύς. ἀλλʼ ἔμπας <del status="unremarkable" instant="false">ὀίω</del>
+                </said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">μαλακογνώμων</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἔσται ποθʼ, ὅταν ταύτῃ ῥαισθῇ:</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τὴν δʼ ἀτέραμνον στορέσας ὀργὴν</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">εἰς ἀρθμὸν ἐμοὶ καὶ φιλότητα</said></l>
+            <l cite="195" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">σπεύδων σπεύδοντί ποθʼ ἥξει.</said></l>
+
+
+
+
+
+
+
+            <seg n="195a" ana="episode"><said who="Χορός" aloud="unknown" direct="true">πάντʼ ἐκκάλυψον καὶ γέγωνʼ ἡμῖν λόγον,</said></seg>
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">ποίῳ λαβών σε Ζεὺς ἐπʼ αἰτιάματι,</said></l>
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">οὕτως ἀτίμως καὶ πικρῶς αἰκίζεται:</said></l>
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">δίδαξον ἡμᾶς, εἴ τι μὴ βλάπτει λόγῳ.</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀλγεινὰ μέν μοι καὶ λέγειν ἐστὶν τάδε,</said></l>
+            <l cite="200" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἄλγος δὲ σιγᾶν, πανταχῇ δὲ
+                    δύσποτμα.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐπεὶ τάχιστʼ ἤρξαντο δαίμονες χόλου</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">στάσις τʼ ἐν ἀλλήλοισιν ὠροθύνετο,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">οἱ μὲν θέλοντες ἐκβαλεῖν ἕδρας Κρόνον,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὡς Ζεὺς ἀνάσσοι δῆθεν, οἱ δὲ τοὔμπαλιν</said></l>
+            <l cite="205" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">σπεύδοντες, ὡς Ζεὺς μήποτʼ ἄρξειεν
+                    θεῶν,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐνταῦθʼ ἐγὼ τὰ λῷστα βουλεύων πιθεῖν</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">Τιτᾶνας, Οὐρανοῦ τε καὶ Χθονὸς τέκνα,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">οὐκ ἠδυνήθην. αἱμύλας δὲ μηχανὰς</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀτιμάσαντες καρτεροῖς φρονήμασιν</said></l>
+            <l cite="210" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ᾤοντʼ ἀμοχθεὶ πρὸς βίαν τε
+                    δεσπόσειν:</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐμοὶ δὲ μήτηρ οὐχ ἅπαξ μόνον Θέμις,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">καὶ Γαῖα, πολλῶν ὀνομάτων μορφὴ μία,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τὸ μέλλον κραίνοιτο προυτεθεσπίκει,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὡς οὐ κατʼ ἰσχὺν οὐδὲ πρὸς τὸ καρτερόν</said></l>
+            <l cite="215" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">χρείη, δόλῳ δὲ τοὺς ὑπερσχόντας
+                    κρατεῖν.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τοιαῦτʼ ἐμοῦ λόγοισιν ἐξηγουμένου</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">οὐκ ἠξίωσαν οὐδὲ προσβλέψαι τὸ πᾶν.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">κράτιστα δή μοι τῶν παρεστώτων τότε</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐφαίνετʼ εἶναι προσλαβόντα μητέρα</said></l>
+            <l cite="220" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἑκόνθʼ ἑκόντι Ζηνὶ
+                συμπαραστατεῖν.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐμαῖς δὲ βουλαῖς Ταρτάρου μελαμβαθὴς</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">κευθμὼν καλύπτει τὸν παλαιγενῆ Κρόνον</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">αὐτοῖσι συμμάχοισι. τοιάδʼ ἐξ ἐμοῦ</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὁ τῶν θεῶν τύραννος ὠφελημένος</said></l>
+            <l cite="225" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">κακαῖσι ποιναῖς ταῖσδὲ μʼ
+                    ἐξημείψατο.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἔνεστι γάρ πως τοῦτο τῇ τυραννίδι</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">νόσημα, τοῖς φίλοισι μὴ πεποιθέναι.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true"> ὃ δʼ οὖν ἐρωτᾶτʼ, αἰτίαν καθʼ ἥντινα</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">αἰκίζεταί με, τοῦτο δὴ σαφηνιῶ.</said></l>
+            <l cite="230" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true"> ὅπως τάχιστα τὸν πατρῷον ἐς
+                    θρόνον</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">καθέζετʼ, εὐθὺς δαίμοσιν νέμει γέρα</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἄλλοισιν ἄλλα καὶ διεστοιχίζετο</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀρχήν: βροτῶν δὲ τῶν ταλαιπώρων λόγον</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">οὐκ ἔσχεν οὐδένʼ, ἀλλʼ ἀιστώσας γένος</said></l>
+            <l cite="235" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τὸ πᾶν ἔχρῃζεν ἄλλο φιτῦσαι
+                νέον.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">καὶ τοῖσιν οὐδεὶς ἀντέβαινε πλὴν ἐμοῦ.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐγὼ δʼ ἐτόλμησʼ: ἐξελυσάμην βροτοὺς</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τὸ μὴ διαρραισθέντας εἰς Ἅιδου μολεῖν.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τῷ τοι τοιαῖσδε πημοναῖσι κάμπτομαι,</said></l>
+            <l cite="240" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">πάσχειν μὲν ἀλγειναῖσιν, οἰκτραῖσιν δʼ
+                    ἰδεῖν:</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">θνητοὺς δʼ ἐν οἴκτῳ προθέμενος, τούτου
+                    τυχεῖν</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">οὐκ ἠξιώθην αὐτός, ἀλλὰ νηλεῶς</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὧδʼ ἐρρύθμισμαι, Ζηνὶ δυσκλεὴς θέα.</said></l>
+
+
+
+
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">σιδηρόφρων τε κἀκ πέτρας εἰργασμένος</said></l>
+            <l cite="245" ana="episode"><said who="Χορός" aloud="unknown" direct="true">ὅστις, Προμηθεῦ, σοῖσιν οὐ
+                συνασχαλᾷ</said></l>
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">μόχθοις: ἐγὼ γὰρ οὔτʼ ἂν εἰσιδεῖν τάδε</said></l>
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">ἔχρῃζον εἰσιδοῦσά τʼ ἠλγύνθην κέαρ.</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">καὶ μὴν φίλοις <add instant="false" status="unremarkable">γʼ </add> ἐλεινὸς εἰσορᾶν ἐγώ.</said></l>
+
+
+
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">μή πού τι προύβης τῶνδε καὶ περαιτέρω;</said></l>
+
+
+
+            <l cite="250" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">θνητούς γʼ ἔπαυσα μὴ προδέρκεσθαι
+                    μόρον.</said></l>
+
+
+
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">τὸ ποῖον εὑρὼν τῆσδε φάρμακον νόσου;</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τυφλὰς ἐν αὐτοῖς ἐλπίδας κατῴκισα.</said></l>
+
+
+
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">μέγʼ ὠφέλημα τοῦτʼ ἐδωρήσω βροτοῖς.</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">πρὸς τοῖσδε μέντοι πῦρ ἐγώ σφιν ὤπασα.</said></l>
+
+
+
+            <l cite="255" ana="episode"><said who="Χορός" aloud="unknown" direct="true">καὶ νῦν φλογωπὸν πῦρ ἔχουσʼ
+                ἐφήμεροι;</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀφʼ οὗ γε πολλὰς ἐκμαθήσονται τέχνας.</said></l>
+
+
+
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">τοιοῖσδε δή σε Ζεὺς ἐπʼ αἰτιάμασιν—</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">αἰκίζεταί τε κοὐδαμῇ χαλᾷ κακῶν.</said></l>
+
+
+
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">οὐδʼ ἔστιν ἄθλου τέρμα σοι προκείμενον;</said></l>
+
+
+
+            <l cite="260" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">οὐκ ἄλλο γʼ οὐδέν, πλὴν ὅταν κείνῳ
+                    δοκῇ.</said></l>
+
+
+
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">δόξει δὲ πῶς; τίς ἐλπίς; οὐχ ὁρᾷς ὅτι</said></l>
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">ἥμαρτες; ὡς δʼ ἥμαρτες οὔτʼ ἐμοὶ λέγειν</said></l>
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">καθʼ ἡδονὴν σοί τʼ ἄλγος. ἀλλὰ ταῦτα μὲν</said></l>
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">μεθῶμεν, ἄθλου δʼ ἔκλυσιν ζήτει τινά.</said></l>
+
+
+
+
+            <l cite="265" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐλαφρὸν ὅστις πημάτων ἔξω πόδα</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἔχει παραινεῖν νουθετεῖν τε τὸν κακῶς</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">πράσσοντʼ: ἐγὼ δὲ ταῦθʼ ἅπαντʼ
+                ἠπιστάμην.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἑκὼν ἑκὼν ἥμαρτον, οὐκ ἀρνήσομαι:</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">θνητοῖς ἀρήγων αὐτὸς ηὑρόμην πόνους.</said></l>
+            <l cite="270" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">οὐ μήν τι ποιναῖς γʼ ᾠόμην τοίαισί
+                    με</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">κατισχνανεῖσθαι πρὸς πέτραις
+                πεδαρσίοις,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τυχόντʼ ἐρήμου τοῦδʼ ἀγείτονος πάγου.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">καί μοι τὰ μὲν παρόντα μὴ δύρεσθʼ ἄχη,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">πέδοι δὲ βᾶσαι τὰς προσερπούσας τύχας</said></l>
+            <l cite="275" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀκούσαθʼ, ὡς μάθητε διὰ τέλους τὸ
+                    πᾶν.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">πίθεσθέ μοι πίθεσθε, συμπονήσατε</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τῷ νῦν μογοῦντι. ταὐτά τοι πλανωμένη</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">πρὸς ἄλλοτʼ ἄλλον πημονὴ προσιζάνει.</said></l>
+
+
+
+
+
+            <l ana="anapests"><said who="Χορός" aloud="unknown" direct="true">οὐκ ἀκούσαις ἐπεθώυξας</said></l>
+            <l cite="280" ana="anapests"><said who="Χορός" aloud="unknown" direct="true">τοῦτο, Προμηθεῦ.</said></l>
+            <l ana="anapests"><said who="Χορός" aloud="unknown" direct="true">καὶ νῦν ἐλαφρῷ ποδὶ κραιπνόσυτον</said></l>
+            <l ana="anapests"><said who="Χορός" aloud="unknown" direct="true">θᾶκον προλιποῦσʼ, αἰθέρα θʼ ἁγνὸν</said></l>
+            <l ana="anapests"><said who="Χορός" aloud="unknown" direct="true">πόρον οἰωνῶν, ὀκριοέσσῃ</said></l>
+            <l ana="anapests"><said who="Χορός" aloud="unknown" direct="true">χθονὶ τῇδε πελῶ, τοὺς σοὺς δὲ πόνους</said></l>
+            <l cite="285" ana="anapests"><said who="Χορός" aloud="unknown" direct="true">χρῄζω διὰ παντὸς ἀκοῦσαι.</said></l>
+
+
+
+
+
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">ἥκω δολιχῆς τέρμα κελεύθου</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">διαμειψάμενος πρὸς σέ, Προμηθεῦ,</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">τὸν πτερυγωκῆ τόνδʼ οἰωνὸν</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">γνώμῃ στομίων ἄτερ εὐθύνων:</said></l>
+            <l cite="290" ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">ταῖς σαῖς δὲ τύχαις, ἴσθι,
+                συναλγῶ.</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">τὸ τε γάρ με, δοκῶ, συγγενὲς οὕτως</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">ἐσαναγκάζει,</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">χωρίς τε γένους οὐκ ἔστιν ὅτῳ</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">μείζονα μοῖραν νείμαιμʼ ἢ σοί.</said></l>
+            <l cite="295" ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">γνώσῃ δὲ τάδʼ ὡς ἔτυμʼ, οὐδὲ
+                μάτην</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">χαριτογλωσσεῖν ἔνι μοι: φέρε γὰρ</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">σήμαινʼ ὅ τι χρή σοι συμπράσσειν:</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">οὐ γάρ ποτʼ ἐρεῖς ὡς Ὠκεανοῦ</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">φίλος ἐστὶ βεβαιότερός σοι.</said></l>
+
+
+
+
+            <l cite="300" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἔα: τί χρῆμα λεύσσω; καὶ σὺ δὴ πόνων
+                    ἐμῶν</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἥκεις ἐπόπτης; πῶς ἐτόλμησας, λιπὼν</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐπώνυμόν τε ῥεῦμα καὶ πετρηρεφῆ</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">αὐτόκτιτʼ ἄντρα, τὴν σιδηρομήτορα</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐλθεῖν ἐς αἶαν; ἦ θεωρήσων τύχας</said></l>
+            <l cite="305" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐμὰς ἀφῖξαι καὶ συνασχαλῶν
+                    κακοῖς;</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">δέρκου θέαμα, τόνδε τὸν Διὸς φίλον,</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τὸν συγκαταστήσαντα τὴν τυραννίδα,</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">οἵαις ὑπʼ αὐτοῦ πημοναῖσι κάμπτομαι.</said></l>
+
+
+
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">ὁρῶ, Προμηθεῦ, καὶ παραινέσαι γέ σοι</said></l>
+            <l cite="310" ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">θέλω τὰ λῷστα, καίπερ ὄντι
+                ποικίλῳ.</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">γίγνωσκε σαυτὸν καὶ μεθάρμοσαι τρόπους</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">νέους: νέος γὰρ καὶ τύραννος ἐν θεοῖς.</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">εἰ δʼ ὧδε τραχεῖς καὶ τεθηγμένους
+                λόγους</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">ῥίψεις, τάχʼ ἄν σου καὶ μακρὰν ἀνωτέρω</said></l>
+            <l cite="315" ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">θακῶν κλύοι Ζεύς, ὥστε σοι τὸν νῦν
+                    ὄχλον</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">παρόντα μόχθων παιδιὰν εἶναι δοκεῖν.</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">ἀλλʼ, ὦ ταλαίπωρʼ, ἃς ἔχεις ὀργὰς ἄφες,</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">ζήτει δὲ τῶνδε πημάτων ἀπαλλαγάς.</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">ἀρχαῖʼ ἴσως σοι φαίνομαι λέγειν τάδε:</said></l>
+            <l cite="320" ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">τοιαῦτα μέντοι τῆς ἄγαν
+                ὑψηγόρου</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">γλώσσης, Προμηθεῦ, τἀπίχειρα γίγνεται.</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">σὺ δʼ οὐδέπω ταπεινὸς οὐδʼ εἴκεις
+                κακοῖς,</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">πρὸς τοῖς παροῦσι δʼ ἄλλα προσλαβεῖν
+                    θέλεις.</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">οὔκουν ἔμοιγε χρώμενος διδασκάλῳ</said></l>
+            <l cite="325" ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">πρὸς κέντρα κῶλον ἐκτενεῖς, ὁρῶν
+                    ὅτι</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">τραχὺς μόναρχος οὐδʼ ὑπεύθυνος κρατεῖ.</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">καὶ νῦν ἐγὼ μὲν εἶμι καὶ πειράσομαι</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">ἐὰν δύνωμαι τῶνδέ σʼ ἐκλῦσαι πόνων.</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">σὺ δʼ ἡσύχαζε μηδʼ ἄγαν λαβροστόμει.</said></l>
+            <l cite="330" ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">ἢ οὐκ οἶσθʼ ἀκριβῶς ὢν περισσόφρων
+                    ὅτι</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">γλώσσῃ ματαίᾳ ζημία προστρίβεται;</said></l>
+
+
+
+
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ζηλῶ σʼ ὁθούνεκʼ ἐκτὸς αἰτίας κυρεῖς</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τούτων μετασχεῖν καὶ τετολμηκὼς ἐμοί.</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">καὶ νῦν ἔασον μηδέ σοι μελησάτω.</said></l>
+            <l cite="335" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">πάντως γὰρ οὐ πείσεις νιν: οὐ γὰρ
+                    εὐπιθής.</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">πάπταινε δʼ αὐτὸς μή τι πημανθῇς ὁδῷ.</said></l>
+
+
+
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">πολλῷ γʼ ἀμείνων τοὺς πέλας φρενοῦν
+                ἔφυς</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">ἢ σαυτόν: ἔργῳ κοὐ λόγῳ τεκμαίρομαι.</said></l>
+            <l ana="REMOVE_BEFORE_FLIGHT">REMOVE_BEFORE_FLIGHT</l>
+            <l cite="340" ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">ὁρμώμενον δὲ μηδαμῶς
+                ἀντισπάσῃς.</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">αὐχῶ γὰρ αὐχῶ τήνδε δωρεὰν ἐμοὶ</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">δώσειν Δίʼ, ὥστε τῶνδέ σʼ ἐκλῦσαι
+                πόνων.</said></l>
+
+
+
+
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τὰ μὲν σʼ ἐπαινῶ κοὐδαμῇ λήξω ποτέ:</said></l>
+            <seg n="343b" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">προθυμίας γὰρ οὐδὲν ἐλλείπεις.
+                    ἀτὰρ</said></seg>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">μηδὲν πόνει. μάτην γὰρ οὐδὲν ὠφελῶν</said></l>
+            <l cite="345" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐμοὶ πονήσεις, εἴ τι καὶ πονεῖν
+                    θέλεις.</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀλλʼ ἡσύχαζε σαυτὸν ἐκποδὼν ἔχων:</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐγὼ γὰρ οὐκ, εἰ δυστυχῶ, τοῦδʼ εἵνεκα</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">θέλοιμʼ ἂν ὡς πλείστοισι πημονὰς
+                τυχεῖν.</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">οὐ δῆτʼ ἐπεί με καὶ κασιγνήτου τύχαι</said></l>
+            <l cite="350" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τείρουσʼ Ἄτλαντος, ὃς πρὸς ἑσπέρους
+                    τόπους</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἕστηκε κίονʼ οὐρανοῦ τε καὶ χθονὸς</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ὤμοις ἐρείδων, ἄχθος οὐκ εὐάγκαλον.</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τὸν γηγενῆ τε Κιλικίων οἰκήτορα</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἄντρων ἰδὼν ᾤκτιρα, δάιον τέρας</said></l>
+            <l cite="355" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἑκατογκάρανον πρὸς βίαν
+                    χειρούμενον</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">Τυφῶνα θοῦρον: πᾶσιν <del status="unremarkable" instant="false">ὅς</del> ἀντέστη θεοῖς,</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">σμερδναῖσι γαμφηλαῖσι συρίζων φόβον:</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐξ ὀμμάτων δʼ ἤστραπτε γοργωπὸν
+                σέλας,</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ὡς τὴν Διὸς τυραννίδʼ ἐκπέρσων βίᾳ:</said></l>
+            <l cite="360" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀλλʼ ἦλθεν αὐτῷ Ζηνὸς ἄγρυπνον
+                    βέλος,</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">καταιβάτης κεραυνὸς ἐκπνέων φλόγα,</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ὃς αὐτὸν ἐξέπληξε τῶν ὑψηγόρων</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">κομπασμάτων. φρένας γὰρ εἰς αὐτὰς
+                τυπεὶς</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐφεψαλώθη κἀξεβροντήθη σθένος.</said></l>
+            <l cite="365" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">καὶ νῦν ἀχρεῖον καὶ παράορον
+                    δέμας</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">κεῖται στενωποῦ πλησίον θαλασσίου</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἰπούμενος ῥίζαισιν Αἰτναίαις ὕπο:</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">κορυφαῖς δʼ ἐν ἄκραις ἥμενος
+                μυδροκτυπεῖ</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">Ἥφαιστος: ἔνθεν ἐκραγήσονταί ποτε</said></l>
+            <l cite="370" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ποταμοὶ πυρὸς δάπτοντες ἀγρίαις
+                    γνάθοις</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τῆς καλλικάρπου Σικελίας λευροὺς
+                γύας:</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τοιόνδε Τυφὼς ἐξαναζέσει χόλον</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">θερμοῖς ἀπλάτου βέλεσι πυρπνόου
+                ζάλης,</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">καίπερ κεραυνῷ Ζηνὸς ἠνθρακωμένος.</said></l>
+            <l cite="375" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true"> σὺ δʼ οὐκ ἄπειρος, οὐδʼ ἐμοῦ
+                    διδασκάλου</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">χρῄζεις: σεαυτὸν σῷζʼ ὅπως ἐπίστασαι:</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐγὼ δὲ τὴν παροῦσαν ἀντλήσω τύχην,</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἔστʼ ἂν Διὸς φρόνημα λωφήσῃ χόλου.</said></l>
+
+
+
+
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">οὔκουν, Προμηθεῦ, τοῦτο γιγνώσκεις, ὅτι</said></l>
+            <l cite="380" ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">ὀργῆς νοσούσης εἰσὶν ἰατροὶ
+                λόγοι;</said></l>
+
+
+
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐάν τις ἐν καιρῷ γε μαλθάσσῃ κέαρ</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">καὶ μὴ σφριγῶντα θυμὸν ἰσχναίνῃ βίᾳ.</said></l>
+
+
+
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">ἐν τῷ προθυμεῖσθαι δὲ καὶ τολμᾶν τίνα</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">ὁρᾷς ἐνοῦσαν ζημίαν; δίδασκέ με.</said></l>
+
+
+
+            <l cite="385" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">μόχθον περισσὸν κουφόνουν τʼ
+                    εὐηθίαν.</said></l>
+
+
+
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">ἔα με τῇδε τῇ νόσῳ νοσεῖν, ἐπεὶ</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">κέρδιστον εὖ φρονοῦντα μὴ φρονεῖν
+                δοκεῖν.</said></l>
+
+
+
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐμὸν δοκήσει τἀμπλάκημʼ εἶναι τόδε.</said></l>
+
+
+
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">σαφῶς μʼ ἐς οἶκον σὸς λόγος στέλλει
+                πάλιν.</said></l>
+
+
+
+            <l cite="390" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">μὴ γάρ σε θρῆνος οὑμὸς εἰς ἔχθραν
+                    βάλῃ.</said></l>
+
+
+
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">ἦ τῷ νέον θακοῦντι παγκρατεῖς ἕδρας;</said></l>
+
+
+
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τούτου φυλάσσου μή ποτʼ ἀχθεσθῇ κέαρ.</said></l>
+
+
+
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">ἡ σή, Προμηθεῦ, συμφορὰ διδάσκαλος.</said></l>
+
+
+
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">στέλλου, κομίζου, σῷζε τὸν παρόντα
+                νοῦν.</said></l>
+
+
+
+            <l cite="395" ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">ὁρμωμένῳ μοι τόνδʼ ἐθώυξας
+                λόγον.</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">λευρὸν γὰρ οἷμον αἰθέρος ψαίρει πτεροῖς</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">τετρασκελὴς οἰωνός: ἄσμενος δέ τἂν</said></l>
+            <l ana="anapests"><said who="Ὠκεανός" aloud="unknown" direct="true">σταθμοῖς ἐν οἰκείοισι κάμψειεν γόνυ.</said></l>
+
+
+
+
+
+
+
+
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">στένω σε τᾶς οὐλομένας τύχας, Προμηθεῦ:</said></l>
+            <l cite="400" ana="strophe"><said who="Χορός" aloud="unknown" direct="true">δακρυσίστακτα δʼ ἀπʼ ὄσσων</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">ῥαδινὰν λειβομένα ῥέος παρειὰν</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">νοτίοις ἔτεγξα παγαῖς:</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">ἀμέγαρτα γὰρ τάδε Ζεὺς</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">ἰδίοις νόμοις κρατύνων</said></l>
+            <l cite="405" ana="strophe"><said who="Χορός" aloud="unknown" direct="true">ὑπερήφανον θεοῖς τοῖς</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">πάρος ἐνδείκνυσιν αἰχμάν.</said></l>
+
+
+
+
+
+
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">πρόπασα δʼ ἤδη στονόεν λέλακε χώρα,</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">μεγαλοσχήμονά ἀρχαι-</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">οπρεπῆ <add instant="false" status="unremarkable"/> στένουσι τὰν σὰν</said></l>
+            <l cite="410" ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">ξυνομαιμόνων τε τιμάν,</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">ὁπόσοι τʼ ἔποικον ἁγνᾶς</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">Ἀσίας ἕδος νέμονται,</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">μεγαλοστόνοισι σοῖς πή-</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">μασι συγκάμνουσι θνατοί.</said></l>
+
+
+
+
+
+
+            <l cite="415" ana="strophe"><said who="Χορός" aloud="unknown" direct="true">Κολχίδος τε γᾶς ἔνοικοι</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">παρθένοι, μάχας ἄτρεστοι,</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">καὶ Σκύθης ὅμιλος, οἳ γᾶς</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">ἔσχατον τόπον ἀμφὶ Μαι-</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">ῶτιν ἔχουσι λίμναν,</said></l>
+
+
+
+
+
+
+            <l cite="420" ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">†Ἀραβίας τʼ ἄρειον ἄνθος,</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">ὑψίκρημνον οἳ πόλισμα</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">Καυκάσου πέλας νέμονται,</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">δάιος στρατός, ὀξυπρῴ-</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">ροισι βρέμων ἐν αἰχμαῖς.</said></l>
+
+
+
+
+
+
+            <l cite="425" ana="epode"><said who="Χορός" aloud="unknown" direct="true">†μόνον δὴ πρόσθεν ἄλλον ἐν πόνοις</said></l>
+            <l ana="epode"><said who="Χορός" aloud="unknown" direct="true">δαμέντʼ ἀδαμαντοδέτοις</said></l>
+            <l ana="epode"><said who="Χορός" aloud="unknown" direct="true">Τιτᾶνα λύμαις εἰσιδόμαν, θεόν,</said></l>
+            <l ana="epode"><said who="Χορός" aloud="unknown" direct="true">Ἄτλαντος <del status="unremarkable" instant="false">αἰὲν</del>; ὑπέροχον σθένος κραταιόν,</said></l>
+            <l ana="epode"><said who="Χορός" aloud="unknown" direct="true">
+                    <add instant="false" status="unremarkable">ὃς</add> οὐράνιόν <del status="unremarkable" instant="false">τε</del> πόλον</said></l>
+            <l cite="430" ana="epode"><said who="Χορός" aloud="unknown" direct="true">νώτοις <add instant="false" status="unremarkable">στέγων</add> ὑποστενάζει.†</said></l>
+
+
+
+
+
+            <l ana="epode"><said who="Χορός" aloud="unknown" direct="true">βοᾷ δὲ πόντιος κλύδων</said></l>
+            <l ana="epode"><said who="Χορός" aloud="unknown" direct="true">ξυμπίτνων, στένει βυθός,</said></l>
+            <l ana="epode"><said who="Χορός" aloud="unknown" direct="true">κελαινὸς δʼ Ἄιδος ὑποβρέμει μυχὸς γᾶς,</said></l>
+            <l ana="epode"><said who="Χορός" aloud="unknown" direct="true">παγαί θʼ ἁγνορύτων ποταμῶν</said></l>
+            <l cite="435" ana="epode"><said who="Χορός" aloud="unknown" direct="true">στένουσιν ἄλγος οἰκτρόν.</said></l>
+
+
+
+
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">μή τοι χλιδῇ δοκεῖτε μηδʼ αὐθαδίᾳ</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">σιγᾶν με: συννοίᾳ δὲ δάπτομαι κέαρ,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὁρῶν ἐμαυτὸν ὧδε προυσελούμενον.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">καίτοι θεοῖσι τοῖς νέοις τούτοις γέρα</said></l>
+            <l cite="440" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τίς ἄλλος ἢ ʼγὼ παντελῶς
+                διώρισεν;</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀλλʼ αὐτὰ σιγῶ: καὶ γὰρ εἰδυίαισιν ἂν</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὑμῖν λέγοιμι: τἀν βροτοῖς δὲ πήματα</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀκούσαθʼ, ὥς σφας νηπίους ὄντας τὸ
+                πρὶν</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἔννους ἔθηκα καὶ φρενῶν ἐπηβόλους.</said></l>
+            <l cite="445" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">λέξω δέ, μέμψιν οὔτινʼ ἀνθρώποις
+                    ἔχων,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀλλʼ ὧν δέδωκʼ εὔνοιαν ἐξηγούμενος:</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true"> οἳ πρῶτα μὲν βλέποντες ἔβλεπον μάτην,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">κλύοντες οὐκ ἤκουον, ἀλλʼ ὀνειράτων</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀλίγκιοι μορφαῖσι τὸν μακρὸν βίον</said></l>
+            <l cite="450" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἔφυρον εἰκῇ πάντα, κοὔτε
+                    πλινθυφεῖς</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">δόμους προσείλους, ᾖσαν, οὐ
+                ξυλουργίαν:</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">κατώρυχες δʼ ἔναιον ὥστʼ ἀήσυροι</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">μύρμηκες ἄντρων ἐν μυχοῖς ἀνηλίοις.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἦν δʼ οὐδὲν αὐτοῖς οὔτε χείματος
+                τέκμαρ</said></l>
+            <l cite="455" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">οὔτʼ ἀνθεμώδους ἦρος οὔτε
+                καρπίμου</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">θέρους βέβαιον, ἀλλʼ ἄτερ γνώμης τὸ
+                πᾶν</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἔπρασσον, ἔστε δή σφιν ἀντολὰς ἐγὼ</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἄστρων ἔδειξα τάς τε δυσκρίτους
+                δύσεις.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true"> καὶ μὴν ἀριθμόν, ἔξοχον σοφισμάτων,</said></l>
+            <l cite="460" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐξηῦρον αὐτοῖς, γραμμάτων τε
+                    συνθέσεις,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">μνήμην ἁπάντων, μουσομήτορʼ ἐργάνην.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">κἄζευξα πρῶτος ἐν ζυγοῖσι κνώδαλα</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ζεύγλαισι δουλεύοντα σάγμασὶν θʼ, ὅπως</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">θνητοῖς μεγίστων διάδοχοι μοχθημάτων</said></l>
+            <l cite="465" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">γένοινθʼ , ὑφʼ ἅρμα τʼ ἤγαγον
+                    φιληνίους</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἵππους, ἄγαλμα τῆς ὑπερπλούτου χλιδῆς.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">θαλασσόπλαγκτα δʼ οὔτις ἄλλος ἀντʼ
+                ἐμοῦ</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">λινόπτερʼ ηὗρε ναυτίλων ὀχήματα.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true"> τοιαῦτα μηχανήματʼ ἐξευρὼν τάλας</said></l>
+            <l cite="470" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">βροτοῖσιν, αὐτὸς οὐκ ἔχω σόφισμʼ
+                    ὅτῳ</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τῆς νῦν παρούσης πημονῆς ἀπαλλαγῶ.</said></l>
+
+
+
+
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">πέπονθας αἰκὲς πῆμʼ: ἀποσφαλεὶς φρενῶν</said></l>
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">πλανᾷ, κακὸς δʼ ἰατρὸς ὥς τις ἐς νόσον</said></l>
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">πεσὼν ἀθυμεῖς καὶ σεαυτὸν οὐκ ἔχεις</said></l>
+            <l cite="475" ana="episode"><said who="Χορός" aloud="unknown" direct="true">εὑρεῖν ὁποίοις φαρμάκοις ἰάσιμος.</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τὰ λοιπά μου κλύουσα θαυμάσῃ πλέον,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">οἵας τέχνας τε καὶ πόρους ἐμησάμην.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τὸ μὲν μέγιστον, εἴ τις ἐς νόσον
+                πέσοι,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">οὐκ ἦν ἀλέξημʼ οὐδέν, οὔτε βρώσιμον,</said></l>
+            <l cite="480" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">οὐ χριστόν, οὐδὲ πιστόν, ἀλλὰ
+                    φαρμάκων</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">χρείᾳ κατεσκέλλοντο, πρίν γʼ ἐγώ
+                σφισιν</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἔδειξα κράσεις ἠπίων ἀκεσμάτων,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">αἷς τὰς ἁπάσας ἐξαμύνονται νόσους.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τρόπους τε πολλοὺς μαντικῆς ἐστοίχισα,</said></l>
+            <l cite="485" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">κἄκρινα πρῶτος ἐξ ὀνειράτων ἃ
+                χρὴ</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὕπαρ γενέσθαι, κληδόνας τε δυσκρίτους</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐγνώρισʼ αὐτοῖς ἐνοδίους τε συμβόλους:</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">γαμψωνύχων τε πτῆσιν οἰωνῶν σκεθρῶς</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">διώρισʼ, οἵτινές τε δεξιοὶ φύσιν</said></l>
+            <l cite="490" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">εὐωνύμους τε, καὶ δίαιταν
+                ἥντινα</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἔχουσʼ ἕκαστοι, καὶ πρὸς ἀλλήλους
+                τίνες</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἔχθραι τε καὶ στέργηθρα καὶ συνεδρίαι:</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">σπλάγχνων τε λειότητα, καὶ χροιὰν τίνα</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἔχουσʼ ἂν εἴη δαίμοσιν πρὸς ἡδονὴν</said></l>
+            <l cite="495" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">χολή, λοβοῦ τε ποικίλην
+                εὐμορφίαν.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">κνίσῃ τε κῶλα συγκαλυπτὰ καὶ μακρὰν</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὀσφῦν πυρώσας δυστέκμαρτον ἐς τέχνην</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὥδωσα θνητούς, καὶ φλογωπὰ σήματα</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐξωμμάτωσα, πρόσθεν ὄντʼ ἐπάργεμα.</said></l>
+            <l cite="500" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τοιαῦτα μὲν δὴ ταῦτʼ: ἔνερθε δὲ
+                    χθονὸς</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">κεκρυμμένʼ, ἀνθρώποισιν ὠφελήματα,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">χαλκόν, σίδηρον, ἄργυρον, χρυσόν τε
+                τίς</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">φήσειεν ἂν πάροιθεν ἐξευρεῖν ἐμοῦ;</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">οὐδείς, σάφʼ οἶδα, μὴ μάτην φλύσαι
+                θέλων.</said></l>
+            <l cite="505" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">βραχεῖ δὲ μύθῳ πάντα συλλήβδην
+                    μάθε,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">πᾶσαι τέχναι βροτοῖσιν ἐκ Προμηθέως.</said></l>
+
+
+
+
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">μή νυν βροτοὺς μὲν ὠφέλει καιροῦ πέρα,</said></l>
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">σαυτοῦ δʼ ἀκήδει δυστυχοῦντος. ὡς ἐγὼ</said></l>
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">εὔελπίς εἰμι τῶνδέ σʼ ἐκ δεσμῶν ἔτι</said></l>
+            <l cite="510" ana="episode"><said who="Χορός" aloud="unknown" direct="true">λυθέντα μηδὲν μεῖον ἰσχύσειν Διός.</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">οὐ ταῦτα ταύτῃ Μοῖρά πω τελεσφόρος</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">κρᾶναι πέπρωται, μυρίαις δὲ πημοναῖς</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">δύαις τε καμφθεὶς ὧδε δεσμὰ φυγγάνω:</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τέχνη δʼ ἀνάγκης ἀσθενεστέρα μακρῷ.</said></l>
+
+
+
+            <l cite="515" ana="episode"><said who="Χορός" aloud="unknown" direct="true">τίς οὖν ἀνάγκης ἐστὶν
+                οἰακοστρόφος;</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">Μοῖραι τρίμορφοι μνήμονές τʼ Ἐρινύες</said></l>
+
+
+
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">τούτων ἄρα Ζεύς ἐστιν ἀσθενέστερος;</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">οὔκουν ἂν ἐκφύγοι γε τὴν πεπρωμένην.</said></l>
+
+
+
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">τί γὰρ πέπρωται Ζηνὶ πλὴν ἀεὶ κρατεῖν;</said></l>
+
+
+
+            <l cite="520" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τοῦτʼ οὐκέτʼ ἂν πύθοιο μηδὲ
+                    λιπάρει.</said></l>
+
+
+
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">ἦ πού τι σεμνόν ἐστιν ὃ ξυναμπέχεις.</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἄλλου λόγου μέμνησθε, τόνδε δʼ οὐδαμῶς</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">καιρὸς γεγωνεῖν, ἀλλὰ συγκαλυπτέος</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὅσον μάλιστα: τόνδε γὰρ σῴζων ἐγὼ</said></l>
+            <l cite="525" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">δεσμοὺς ἀεικεῖς καὶ δύας
+                    ἐκφυγγάνω.</said></l>
+
+
+
+
+
+
+
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">μηδάμʼ ὁ πάντα νέμων</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">θεῖτʼ ἐμᾷ γνώμᾳ κράτος ἀντίπαλον Ζεύς,</said></l>
+            <l ana="REMOVE_BEFORE_FLIGHT">REMOVE_BEFORE_FLIGHT</l>
+            <l ana="REMOVE_BEFORE_FLIGHT">REMOVE_BEFORE_FLIGHT</l>
+           
+            <l cite="530" ana="strophe"><said who="Χορός" aloud="unknown" direct="true">μηδʼ ἐλινύσαιμι θεοὺς ὁσίαις θοίναις
+                    ποτινισομένα</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">βουφόνοις παρʼ Ὠκεανοῦ πατρὸς ἄσβεστον
+                πόρον,</said></l>
+            <l ana="REMOVE_BEFORE_FLIGHT">REMOVE_BEFORE_FLIGHT</l>
+            <l ana="REMOVE_BEFORE_FLIGHT">REMOVE_BEFORE_FLIGHT</l>
+            <l ana="REMOVE_BEFORE_FLIGHT">REMOVE_BEFORE_FLIGHT</l>
+            <l cite="535" ana="strophe"><said who="Χορός" aloud="unknown" direct="true">μηδʼ ἀλίτοιμι λόγοις:</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">ἀλλά μοι τόδʼ ἐμμένοι καὶ μήποτʼ ἐκτακείη:</said></l>
+
+
+
+
+
+
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">ἁδύ τι θαρσαλέαις</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">τὸν μακρὸν τείνειν βίον ἐλπίσι, φαναῖς</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">θυμὸν ἀλδαίνουσαν ἐν εὐφροσύναις.
+                φρίσ-</said></l>
+            <l cite="540" ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">σω δέ σε δερκομένα</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">μυρίοις μόχθοις διακναιόμενον <add instant="false" status="unremarkable"/>.</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">Ζῆνα γὰρ οὐ τρομέων</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">ἰδίᾳ γνώμᾳ σέβῃ θνατοὺς ἄγαν,
+                Προμηθεῦ.</said></l>
+
+
+
+            <l ana="REMOVE_BEFORE_FLIGHT">REMOVE_BEFORE_FLIGHT</l>
+
+
+            <l cite="545" ana="strophe"><said who="Χορός" aloud="unknown" direct="true">φέρʼ, ὅπως ἄχαρις χάρις, ὦ φίλος:</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">εἰπὲ ποῦ τίς ἀλκά;</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">τίς ἐφαμερίων ἄρηξις; οὐδʼ ἐδέρχθης</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">ὀλιγοδρανίαν ἄκικυν,</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">ἰσόνειρον, ᾇ τὸ φωτῶν</said></l>
+            <l cite="550" ana="strophe"><said who="Χορός" aloud="unknown" direct="true">ἀλαὸν γένος ἐμπεποδισμένον; οὔποτε <add instant="false" status="unremarkable"/>
+                </said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">τὰν Διὸς ἁρμονίαν θνατῶν παρεξίασι βουλαί.</said></l>
+
+
+
+
+
+
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">ἔμαθον τάδε σὰς προσιδοῦσʼ ὀλο-</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">ὰς τύχας, Προμηθεῦ.</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">τὸ διαμφίδιον δέ μοι μέλος προσέπτα</said></l>
+            <l cite="555" ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">τόδʼ ἐκεῖνό θʼ, ὅ τʼ ἀμφὶ
+                λουτρὰ</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">καὶ λέχος σὸν ὑμεναίουν</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">ἰότατι γάμων, ὅτε τὰν ὁμοπάτριον
+                ἕδνοις</said></l>
+            <l ana="REMOVE_BEFORE_FLIGHT">REMOVE_BEFORE_FLIGHT</l>
+            <l ana="REMOVE_BEFORE_FLIGHT">REMOVE_BEFORE_FLIGHT</l>
+            
+            <l cite="560" ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">ἄγαγες Ἡσιόναν πείθὼν δάμαρτα
+                    κοινόλεκτρον.</said></l>
+
+
+
+
+
+
+
+
+            <l ana="anapests"><said who="Ἰώ" aloud="unknown" direct="true">τίς γῆ; τί γένος; τίνα φῶ λεύσσειν</said></l>
+            <l ana="anapests"><said who="Ἰώ" aloud="unknown" direct="true">τόνδε χαλινοῖς ἐν πετρίνοισιν</said></l>
+            <l ana="anapests"><said who="Ἰώ" aloud="unknown" direct="true">χειμαζόμενον;</said></l>
+            <l ana="anapests"><said who="Ἰώ" aloud="unknown" direct="true">τίνος ἀμπλακίας ποινὰς ὀλέκῃ;</said></l>
+            <l cite="565" ana="anapests"><said who="Ἰώ" aloud="unknown" direct="true">σήμηνον ὅποι γῆς ἡ μογερὰ
+                πεπλάνημαι.</said></l>
+
+
+
+
+
+
+            <seg n="565a" ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">ἆ ἆ, ἒ ἔ,</said></seg>
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">χρίει τις αὖ με τὰν τάλαιναν οἶστρος,</said></l>
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">εἴδωλον Ἄργου γηγενοῦς, ἄλευʼ ἆ δᾶ: φοβοῦμαι</said></l>
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">τὸν μυριωπὸν εἰσορῶσα βούταν.</said></l>
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">ὁ δὲ πορεύεται δόλιον ὄμμʼ ἔχων,</said></l>
+            <l cite="570" ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">ὃν οὐδὲ κατθανόντα γαῖα κεύθει.</said></l>
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">ἀλλʼ, ἐμὲ τὰν τάλαιναν</said></l>
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">ἐξ ἐνέρων περῶν κυναγετεῖ, πλανᾷ</said></l>
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">τε νῆστιν ἀνὰ τὰν παραλίαν ψάμμαν.</said></l>
+
+
+
+
+
+
+
+
+            <l ana="strophe"><said who="Ἰώ" aloud="unknown" direct="true">ὑπὸ δὲ κηρόπλαστος ὀτοβεῖ δόναξ</said></l>
+            <l cite="575" ana="strophe"><said who="Ἰώ" aloud="unknown" direct="true">ἀχέτας ὑπνοδόταν νόμον:</said></l>
+            <l ana="strophe"><said who="Ἰώ" aloud="unknown" direct="true">ἰὼ ἰὼ πόποι, ποῖ μʼ ἄγουσι τη-</said></l>
+            <l ana="strophe"><said who="Ἰώ" aloud="unknown" direct="true">λέπλαγκτοι πλάναι;</said></l>
+            <l ana="strophe"><said who="Ἰώ" aloud="unknown" direct="true">τί ποτέ μʼ, ὦ Κρόνιε παῖ, τί ποτε ταῖσδʼ</said></l>
+            <l ana="strophe"><said who="Ἰώ" aloud="unknown" direct="true">ἐνέζευξας εὑρὼν ἁμαρτοῦσαν ἐν</said></l>
+            <l cite="580" ana="strophe"><said who="Ἰώ" aloud="unknown" direct="true">πημοναῖσιν; ἓ ἕ,</said></l>
+            <seg n="580a" ana="strophe"><said who="Ἰώ" aloud="unknown" direct="true">οἰστρηλάτῳ δὲ δείματι</said></seg>
+            <seg n="580b" ana="strophe"><said who="Ἰώ" aloud="unknown" direct="true">δειλαίαν παράκοπον ὧδε τείρεις;</said></seg>
+            <l ana="strophe"><said who="Ἰώ" aloud="unknown" direct="true">πυρί <add instant="false" status="unremarkable">με
+                    </add> φλέξον, ἢ χθονὶ κάλυψον, ἤ</said></l>
+            <l ana="strophe"><said who="Ἰώ" aloud="unknown" direct="true">ποντίοις δάκεσι δὸς βοράν,</said></l>
+            <l ana="strophe"><said who="Ἰώ" aloud="unknown" direct="true">μηδέ μοι φθονήσῃς</said></l>
+            <l ana="strophe"><said who="Ἰώ" aloud="unknown" direct="true">εὐγμάτων, ἄναξ.</said></l>
+            <l cite="585" ana="strophe"><said who="Ἰώ" aloud="unknown" direct="true">ἄδην με πολύπλανοι πλάναι</said></l>
+            <l ana="strophe"><said who="Ἰώ" aloud="unknown" direct="true">γεγυμνάκασιν, οὐδʼ ἔχω μαθεῖν ὅπα</said></l>
+            <l ana="strophe"><said who="Ἰώ" aloud="unknown" direct="true">πημονὰς ἀλύξω.</said></l>
+            <l ana="strophe"><said who="Ἰώ" aloud="unknown" direct="true">κλύεις φθέγμα τᾶς βούκερω παρθένου;</said></l>
+
+
+
+
+            <l ana="strophe"><said who="Προμηθεύς" aloud="unknown" direct="true">πῶς δʼ οὐ κλύω τῆς οἰστροδινήτου
+                κόρης,</said></l>
+            <l cite="590" ana="strophe"><said who="Προμηθεύς" aloud="unknown" direct="true">τῆς Ἰναχείας; ἣ Διὸς θάλπει
+                κέαρ</said></l>
+            <l ana="strophe"><said who="Προμηθεύς" aloud="unknown" direct="true">ἔρωτι, καὶ νῦν τοὺς ὑπερμήκεις δρόμους</said></l>
+            <l ana="strophe"><said who="Προμηθεύς" aloud="unknown" direct="true">Ἥρᾳ στυγητὸς πρὸς βίαν γυμνάζεται.</said></l>
+
+
+
+
+
+
+            <l ana="antistrophe"><said who="Ἰώ" aloud="unknown" direct="true">πόθεν ἐμοῦ σὺ πατρὸς ὄνομʼ ἀπύεις;</said></l>
+            <l ana="antistrophe"><said who="Ἰώ" aloud="unknown" direct="true">εἰπέ μοι τᾷ μογερᾷ τίς ὤν;</said></l>
+            <l cite="595" ana="antistrophe"><said who="Ἰώ" aloud="unknown" direct="true">τίς ἄρα μʼ, ὦ τάλας, τὰν τάλαιναν
+                ὧδʼ</said></l>
+            <seg n="595a" ana="antistrophe"><said who="Ἰώ" aloud="unknown" direct="true">ἔτυμα προσθροεῖς;</said></seg>
+            <l ana="antistrophe"><said who="Ἰώ" aloud="unknown" direct="true">θεόσυτόν τε νόσον ὠνόμασας, ἃ</said></l>
+            <l ana="antistrophe"><said who="Ἰώ" aloud="unknown" direct="true">μαραίνει με χρίουσα κέντροις, <add instant="false" status="unremarkable">ἰώ</add>,</said></l>
+            <l ana="antistrophe"><said who="Ἰώ" aloud="unknown" direct="true">φοιταλέοισιν ἓ ἕ:</said></l>
+            <l ana="antistrophe"><said who="Ἰώ" aloud="unknown" direct="true">σκιρτημάτων δὲ νήστισιν</said></l>
+            <l cite="600" ana="antistrophe"><said who="Ἰώ" aloud="unknown" direct="true">αἰκείαις λαβρόσυτος ἦλθον, <add instant="false" status="unremarkable">Ἥρας </add>
+                </said></l>
+            <l ana="antistrophe"><said who="Ἰώ" aloud="unknown" direct="true">ἐπικότοισι μήδεσι δαμεῖσα. δυσ-</said></l>
+            <l ana="antistrophe"><said who="Ἰώ" aloud="unknown" direct="true">δαιμόνων δὲ τίνες οἵ, ἓ ἕ,</said></l>
+            <l ana="antistrophe"><said who="Ἰώ" aloud="unknown" direct="true">οἷʼ ἐγὼ μογοῦσιν;</said></l>
+            <l ana="antistrophe"><said who="Ἰώ" aloud="unknown" direct="true">ἀλλά μοι τορῶς</said></l>
+            <l cite="605" ana="antistrophe"><said who="Ἰώ" aloud="unknown" direct="true">τέκμηρον ὅ τι μʼ ἐπαμμένει</said></l>
+            <l ana="antistrophe"><said who="Ἰώ" aloud="unknown" direct="true">παθεῖν, τί μῆχαρ, ἢ τί φάρμακον νόσου,</said></l>
+            <l ana="antistrophe"><said who="Ἰώ" aloud="unknown" direct="true">δεῖξον, εἴπερ οἶσθα:</said></l>
+            <l ana="antistrophe"><said who="Ἰώ" aloud="unknown" direct="true">θρόει, φράζε τᾷ δυσπλάνῳ παρθένῳ.</said></l>
+
+
+
+
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">λέξω τορῶς σοι πᾶν ὅπερ χρῄζεις
+                μαθεῖν,</said></l>
+            <l cite="610" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">οὐκ ἐμπλέκων αἰνίγματʼ, ἀλλʼ ἁπλῷ
+                    λόγῳ,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὥσπερ δίκαιον πρὸς φίλους οἴγειν
+                στόμα.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">πυρὸς βροτοῖς δοτῆρʼ ὁρᾷς Προμηθέα.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">ὦ κοινὸν ὠφέλημα θνητοῖσιν φανείς,</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">τλῆμον Προμηθεῦ, τοῦ δίκην πάσχεις τάδε;</said></l>
+
+
+
+            <l cite="615" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἁρμοῖ πέπαυμαι τοὺς ἐμοὺς θρηνῶν
+                    πόνους.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">οὔκουν πόροις ἂν τήνδε δωρεὰν ἐμοί;</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">λέγʼ ἥντινʼ αἰτῇ: πᾶν γὰρ ἂν πύθοιό
+                μου.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">σήμηνον ὅστις ἐν φάραγγί σʼ ὤχμασεν.</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">βούλευμα μὲν τὸ Δῖον, Ἡφαίστου δὲ
+                χείρ.</said></l>
+
+
+
+            <l cite="620" ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">ποινὰς δὲ ποίων ἀμπλακημάτων τίνεις;</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τοσοῦτον ἀρκῶ σοι σαφηνίσας μόνον.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">καὶ πρός γε τούτοις τέρμα τῆς ἐμῆς πλάνης</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">δεῖξον, τίς ἔσται τῇ ταλαιπώρῳ χρόνος.</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τὸ μὴ μαθεῖν σοι κρεῖσσον ἢ μαθεῖν
+                τάδε.</said></l>
+
+
+
+            <l cite="625" ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">μήτοι με κρύψῃς τοῦθʼ ὅπερ μέλλω
+                παθεῖν.</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀλλʼ οὐ μεγαίρω τοῦδέ σοι δωρήματος.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">τί δῆτα μέλλεις μὴ οὐ γεγωνίσκειν τὸ πᾶν;</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">φθόνος μὲν οὐδείς, σὰς δʼ ὀκνῶ θράξαι
+                    φρένας.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">μή μου προκήδου μᾶσσον ὡς ἐμοὶ γλυκύ.</said></l>
+
+
+
+            <l cite="630" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐπεὶ προθυμῇ, χρὴ λέγειν. ἄκουε
+                    δή.</said></l>
+
+
+
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">μήπω γε: μοῖραν δʼ ἡδονῆς κἀμοὶ πόρε.</said></l>
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">τὴν τῆσδε πρῶτον ἱστορήσωμεν νόσον,</said></l>
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">αὐτῆς λεγούσης τὰς πολυφθόρους τύχας:</said></l>
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">τὰ λοιπὰ δʼ ἄθλων σοῦ διδαχθήτω πάρα.</said></l>
+
+
+
+            <l cite="635" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">σὸν ἔργον, Ἰοῖ, ταῖσδʼ ὑπουργῆσαι
+                    χάριν,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἄλλως τε πάντως καὶ κασιγνήταις
+                πατρός.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὡς τἀποκλαῦσαι κἀποδύρασθαι τύχας</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐνταῦθʼ, ὅπου μέλλοι τις οἴσεσθαι
+                δάκρυ</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">πρὸς τῶν κλυόντων, ἀξίαν τριβὴν ἔχει.</said></l>
+
+
+
+
+            <l cite="640" ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">οὐκ οἶδʼ ὅπως ὑμῖν ἀπιστῆσαί με χρή,</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">σαφεῖ δὲ μύθῳ πᾶν ὅπερ προσχρῄζετε</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">πεύσεσθε: καίτοι καὶ λέγουσʼ αἰσχύνομαι</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">θεόσσυτον χειμῶνα καὶ διαφθορὰν</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">μορφῆς, ὅθεν μοι σχετλίᾳ προσέπτατο.</said></l>
+            <l cite="645" ana="episode"><said who="Ἰώ" aloud="unknown" direct="true"> αἰεὶ γὰρ ὄψεις ἔννυχοι πωλεύμεναι</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">ἐς παρθενῶνας τοὺς ἐμοὺς παρηγόρουν</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">λείοισι μύθοις ‘ὦ μέγʼ εὔδαιμον κόρη,</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">τί παρθενεύει δαρόν, ἐξόν σοι γάμου</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">τυχεῖν μεγίστου; Ζεὺς γὰρ ἱμέρου βέλει</said></l>
+            <l cite="650" ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">πρὸς σοῦ τέθαλπται καὶ συναίρεσθαι
+                Κύπριν</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">θέλει: σὺ δʼ, ὦ παῖ, μὴ ʼπολακτίσῃς λέχος</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">τὸ Ζηνός, ἀλλʼ ἔξελθε πρὸς Λέρνης βαθὺν</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">λειμῶνα, ποίμνας βουστάσεις τε πρὸς πατρός,</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">ὡς ἂν τὸ Δῖον ὄμμα λωφήσῃ πόθου.’</said></l>
+            <l cite="655" ana="episode"><said who="Ἰώ" aloud="unknown" direct="true"> τοιοῖσδε πάσας εὐφρόνας ὀνείρασι</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">συνειχόμην δύστηνος, ἔστε δὴ πατρὶ</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">ἔτλην γεγωνεῖν νυκτίφοιτʼ ὀνείρατα.</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">ὁ δʼ ἔς τε Πυθὼ κἀπὶ Δωδώνης πυκνοὺς</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">θεοπρόπους ἴαλλεν, ὡς μάθοι τί χρὴ</said></l>
+            <l cite="660" ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">δρῶντʼ ἢ λέγοντα δαίμοσιν πράσσειν
+                φίλα.</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">ἧκον δʼ ἀναγγέλλοντες αἰολοστόμους</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">χρησμοὺς ἀσήμους δυσκρίτως τʼ εἰρημένους.</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">τέλος δʼ ἐναργὴς βάξις ἦλθεν Ἰνάχῳ</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">σαφῶς ἐπισκήπτουσα καὶ μυθουμένη</said></l>
+            <l cite="665" ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">ἔξω δόμων τε καὶ πάτρας ὠθεῖν ἐμέ,</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">ἄφετον ἀλᾶσθαι γῆς ἐπʼ ἐσχάτοις ὅροις:</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">κεἰ μὴ θέλοι, πυρωπὸν ἐκ Διὸς μολεῖν</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">κεραυνόν, ὃς πᾶν ἐξαϊστώσοι γένος.</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true"> τοιοῖσδε πεισθεὶς Λοξίου μαντεύμασιν</said></l>
+            <l cite="670" ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">ἐξήλασέν με κἀπέκλῃσε δωμάτων</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">ἄκουσαν ἄκων: ἀλλʼ ἐπηνάγκαζέ νιν</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">Διὸς χαλινὸς πρὸς βίαν πράσσειν τάδε.</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">εὐθὺς δὲ μορφὴ καὶ φρένες διάστροφοι</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">ἦσαν, κεραστὶς δʼ, ὡς ὁρᾶτʼ, ὀξυστόμῳ</said></l>
+            <l cite="675" ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">μύωπι χρισθεῖσʼ ἐμμανεῖ σκιρτήματι</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">ᾖσσον πρὸς εὔποτόν τε Κερχνείας ῥέος</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">Λέρνης τε κρήνην : βουκόλος δὲ γηγενὴς</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">ἄκρατος ὀργὴν Ἄργος ὡμάρτει, πυκνοῖς</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">ὄσσοις δεδορκὼς τοὺς ἐμοὺς κατὰ στίβους.</said></l>
+            <l cite="680" ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">ἀπροσδόκητος δʼ αὐτὸν ἀφνίδιος μόρος</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">τοῦ ζῆν ἀπεστέρησεν. οἰστροπλὴξ δʼ ἐγὼ</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">μάστιγι θείᾳ γῆν πρὸ γῆς ἐλαύνομαι.</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true"> κλύεις τὰ πραχθέντʼ: εἰ δʼ ἔχεις εἰπεῖν ὅ τι</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">λοιπὸν πόνων, σήμαινε: μηδέ μʼ οἰκτίσας</said></l>
+            <l cite="685" ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">ξύνθαλπε μύθοις ψευδέσιν: νόσημα γὰρ</said></l>
+            <l ana="episode"><said who="Ἰώ" aloud="unknown" direct="true">αἴσχιστον εἶναί φημι συνθέτους λόγους.</said></l>
+
+
+
+
+
+            <l ana="lyric"><said who="Χορός" aloud="unknown" direct="true">ἔα ἔα, ἄπεχε, φεῦ:</said></l>
+            <l ana="lyric"><said who="Χορός" aloud="unknown" direct="true">οὔποτʼ οὔποτʼ ηὔχουν <add instant="false" status="unremarkable">ὧδε </add> ξένους</said></l>
+            <l ana="lyric"><said who="Χορός" aloud="unknown" direct="true">μολεῖσθαι λόγους εἰς ἀκοὰν ἐμάν,</said></l>
+            <l cite="690" ana="lyric"><said who="Χορός" aloud="unknown" direct="true">οὐδʼ ὧδε δυσθέατα καὶ δύσοιστα</said></l>
+            <l ana="lyric"><said who="Χορός" aloud="unknown" direct="true">πήματα, λύματα, <del status="unremarkable" instant="false">δείματα</del> ἀμ-</said></l>
+            <l ana="lyric"><said who="Χορός" aloud="unknown" direct="true">φάκει κέντρῳ τύψειν ψυχὰν ἐμάν.</said></l>
+            <l ana="lyric"><said who="Χορός" aloud="unknown" direct="true">ἰὼ <del status="unremarkable" instant="false">ἰὼ</del>
+                    μοῖρα μοῖρα,</said></l>
+            <l ana="REMOVE_BEFORE_FLIGHT">REMOVE_BEFORE_FLIGHT</l>
+            <l cite="695" ana="lyric"><said who="Χορός" aloud="unknown" direct="true">πέφρικʼ εἰσιδοῦσα πρᾶξιν Ἰοῦς.</said></l>
+
+
+
+
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">πρῴ γε στενάζεις καὶ φόβου πλέα τις εἶ:</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐπίσχες ἔστʼ ἂν καὶ τὰ λοιπὰ προσμάθῃς.</said></l>
+
+
+
+            <l ana="lyric"><said who="Χορός" aloud="unknown" direct="true">λέγʼ, ἐκδίδασκε: τοῖς νοσοῦσί τοι γλυκὺ</said></l>
+            <l ana="lyric"><said who="Χορός" aloud="unknown" direct="true">τὸ λοιπὸν ἄλγος προυξεπίστασθαι τορῶς.</said></l>
+
+
+
+            <l cite="700" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τὴν πρίν γε χρείαν ἠνύσασθʼ ἐμοῦ
+                    πάρα</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">κούφως: μαθεῖν γὰρ τῆσδε πρῶτʼ ἐχρῄζετε</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τὸν ἀμφʼ ἑαυτῆς ἆθλον ἐξηγουμένης:</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τὰ λοιπὰ νῦν ἀκούσαθʼ, οἷα χρὴ πάθη</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τλῆναι πρὸς Ἥρας τήνδε τὴν νεάνιδα.</said></l>
+            <l cite="705" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">σύ τʼ Ἰνάχειον σπέρμα, τοὺς ἐμοὺς
+                    λόγους</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">θυμῷ βάλʼ, ὡς ἂν τέρματʼ ἐκμάθῃς ὁδοῦ.</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true"> πρῶτον μὲν ἐνθένδʼ ἡλίου πρὸς ἀντολὰς</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">στρέψασα σαυτὴν στεῖχʼ ἀνηρότους γύας:</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">Σκύθας δʼ ἀφίξῃ νομάδας, οἳ πλεκτὰς
+                στέγας</said></l>
+            <l cite="710" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">πεδάρσιοι ναίουσʼ ἐπʼ εὐκύκλοις
+                    ὄχοις</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἑκηβόλοις τόξοισιν ἐξηρτυμένοι:</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">οἷς μὴ πελάζειν, ἀλλʼ ἁλιστόνοις πόδας</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">χρίμπτουσα ῥαχίαισιν ἐκπερᾶν χθόνα.</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">λαιᾶς δὲ χειρὸς οἱ σιδηροτέκτονες</said></l>
+            <l cite="715" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">οἰκοῦσι Χάλυβες, οὓς φυλάξασθαί σε
+                    χρή.</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀνήμεροι γὰρ οὐδὲ πρόσπλατοι ξένοις.</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἥξεις δʼ Ὑβριστὴν ποταμὸν οὐ ψευδώνυμον,</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ὃν μὴ περάσῃς, οὐ γὰρ εὔβατος περᾶν,</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">πρὶν ἂν πρὸς αὐτὸν Καύκασον μόλῃς, ὀρῶν</said></l>
+            <l cite="720" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ὕψιστον, ἔνθα ποταμὸς ἐκφυσᾷ
+                μένος</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">κροτάφων ἀπʼ αὐτῶν. ἀστρογείτονας δὲ χρὴ</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">κορυφὰς ὑπερβάλλουσαν ἐς μεσημβρινὴν</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">βῆναι κέλευθον, ἔνθʼ, Ἀμαζόνων στρατὸν</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἥξεις στυγάνορʼ, αἳ Θεμίσκυράν ποτε</said></l>
+            <l cite="725" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">κατοικιοῦσιν ἀμφὶ Θερμώδονθʼ,
+                ἵνα</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τραχεῖα πόντου Σαλμυδησσία γνάθος</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐχθρόξενος ναύταισι, μητρυιὰ νεῶν:</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">αὗταί σʼ ὁδηγήσουσι καὶ μάλʼ ἀσμένως.</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἰσθμὸν δʼ ἐπʼ αὐταῖς στενοπόροις λίμνης
+                    πύλαις</said></l>
+            <l cite="730" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">Κιμμερικὸν ἥξεις, ὃν θρασυσπλάγχνως σε
+                    χρὴ</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">λιποῦσαν αὐλῶνʼ ἐκπερᾶν Μαιωτικόν:</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἔσται δὲ θνητοῖς εἰσαεὶ λόγος μέγας</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τῆς σῆς πορείας, Βόσπορος δʼ ἐπώνυμος</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">κεκλήσεται. λιποῦσα δʼ Εὐρώπης πέδον</said></l>
+            <l cite="735" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἤπειρον ἥξεις Ἀσιάδʼ:. ἆρʼ, ὑμῖν
+                    δοκεῖ</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ὁ τῶν θεῶν τύραννος ἐς τὰ πάνθʼ ὁμῶς</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">βίαιος εἶναι; τῇδε γὰρ θνητῇ θεὸς</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">χρῄζων μιγῆναι τάσδʼ ἐπέρριψεν πλάνας.</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">πικροῦ δʼ ἔκυρσας, ὦ κόρη, τῶν σῶν γάμων</said></l>
+            <l cite="740" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">μνηστῆρος. οὓς γὰρ νῦν ἀκήκοας
+                    λόγους,</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">εἶναι δόκει σοι μηδέπω ʼν προοιμίοις.</said></l>
+
+
+
+
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">ἰώ μοί μοι, ἒ ἔ.</said></l>
+
+
+
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">σὺ δʼ αὖ κέκραγας κἀναμυχθίζῃ; τί που</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">δράσεις, ὅταν τὰ λοιπὰ πυνθάνῃ κακά;</said></l>
+
+
+
+            <l cite="745" ana="lyric"><said who="Χορός" aloud="unknown" direct="true">ἦ γάρ τι λοιπὸν τῇδε πημάτων ἐρεῖς;</said></l>
+
+
+
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">δυσχείμερόν γε πέλαγος ἀτηρᾶς δύης.</said></l>
+
+
+
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">τί δῆτʼ ἐμοὶ ζῆν κέρδος, ἀλλʼ οὐκ ἐν τάχει</said></l>
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">ἔρριψʼ ἐμαυτὴν τῆσδʼ ἀπὸ στύφλου πέτρας,</said></l>
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">ὅπως πέδοι σκήψασα τῶν πάντων πόνων</said></l>
+            <l cite="750" ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">ἀπηλλάγην; κρεῖσσον γὰρ εἰσάπαξ θανεῖν</said></l>
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">ἢ τὰς ἁπάσας ἡμέρας πάσχειν κακῶς.</said></l>
+
+
+
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἦ δυσπετῶς ἂν τοὺς ἐμοὺς ἄθλους φέροις,</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ὅτῳ θανεῖν μέν ἐστιν οὐ πεπρωμένον:</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">αὕτη γὰρ ἦν ἂν πημάτων ἀπαλλαγή:</said></l>
+            <l cite="755" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">νῦν δʼ οὐδέν ἐστι τέρμα μοι
+                    προκείμενον</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">μόχθων, πρὶν ἂν Ζεὺς ἐκπέσῃ τυραννίδος.</said></l>
+
+
+
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">ἦ γάρ ποτʼ ἔστιν ἐκπεσεῖν ἀρχῆς Δία;</said></l>
+
+
+
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἥδοιʼ ἄν, οἶμαι, τήνδʼ ἰδοῦσα συμφοράν.</said></l>
+
+
+
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">πῶς δʼ οὐκ ἄν, ἥτις ἐκ Διὸς πάσχω κακῶς;</said></l>
+
+
+
+            <l cite="760" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ὡς τοίνυν ὄντων τῶνδέ σοι μαθεῖν
+                    πάρα.</said></l>
+
+
+
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">πρὸς τοῦ τύραννα σκῆπτρα συληθήσεται;</said></l>
+
+
+
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">πρὸς αὐτὸς αὑτοῦ κενοφρόνων βουλευμάτων.</said></l>
+
+
+
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">ποίῳ τρόπῳ; σήμηνον, εἰ μή τις βλάβη.</said></l>
+
+
+
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">γαμεῖ γάμον τοιοῦτον ᾧ ποτʼ ἀσχαλᾷ.</said></l>
+
+
+
+            <l cite="765" ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">θέορτον, ἢ βρότειον; εἰ ῥητόν, φράσον.</said></l>
+
+
+
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τί δʼ ὅντινʼ:; οὐ γὰρ ῥητὸν αὐδᾶσθαι
+                τόδε.</said></l>
+
+
+
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">ἦ πρὸς δάμαρτος ἐξανίσταται θρόνων;</said></l>
+
+
+
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἣ τέξεταί γε παῖδα φέρτερον πατρός.</said></l>
+
+
+
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">οὐδʼ ἔστιν αὐτῷ τῆσδʼ ἀποστροφὴ τύχης;</said></l>
+
+
+
+            <l cite="770" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">οὐ δῆτα, πλὴν ἔγωγʼ ἂν ἐκ δεσμῶν
+                    λυθείς.</said></l>
+
+
+
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">τίς οὖν ὁ λύσων ἐστὶν ἄκοντος Διός;</said></l>
+
+
+
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τῶν σῶν τινʼ αὐτὸν ἐγγόνων εἶναι χρεών.</said></l>
+
+
+
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">πῶς εἶπας; ἦ ʼμὸς παῖς σʼ ἀπαλλάξει κακῶν;</said></l>
+
+
+
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τρίτος γε γένναν πρὸς δέκʼ ἄλλαισιν
+                γοναῖς.</said></l>
+
+
+
+            <l cite="775" ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">ἥδʼ οὐκέτʼ εὐξύμβλητος ἡ χρησμῳδία.</said></l>
+
+
+
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">καὶ μηδὲ σαυτῆς ἐκμαθεῖν ζήτει πόνους.</said></l>
+
+
+
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">μή μοι προτείνων κέρδος εἶτʼ ἀποστέρει.</said></l>
+
+
+
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">δυοῖν λόγοιν σε θατέρῳ δωρήσομαι.</said></l>
+
+
+
+            <l ana="lyric"><said who="Ἰώ" aloud="unknown" direct="true">ποίοιν; πρόδειξον, αἵρεσίν τʼ ἐμοὶ δίδου.</said></l>
+
+
+
+
+            <l cite="780" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">δίδωμʼ: ἑλοῦ γάρ, ἢ πόνων τὰ λοιπά
+                    σοι</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">φράσω σαφηνῶς, ἢ τὸν ἐκλύσοντʼ ἐμέ.</said></l>
+
+
+
+            <l ana="lyric"><said who="Χορός" aloud="unknown" direct="true">τούτων σὺ τὴν μὲν τῇδε, τὴν δʼ ἐμοὶ χάριν</said></l>
+            <l ana="lyric"><said who="Χορός" aloud="unknown" direct="true">θέσθαι θέλησον, μηδʼ ἀτιμάσῃς λόγου:</said></l>
+            <l ana="lyric"><said who="Χορός" aloud="unknown" direct="true">καὶ τῇδε μὲν γέγωνε τὴν λοιπὴν πλάνην,</said></l>
+            <l cite="785" ana="lyric"><said who="Χορός" aloud="unknown" direct="true">ἐμοὶ δὲ τὸν λύσοντα: τοῦτο γὰρ ποθῶ.</said></l>
+
+
+
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐπεὶ προθυμεῖσθʼ, οὐκ ἐναντιώσομαι</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τὸ μὴ οὐ γεγωνεῖν πᾶν ὅσον προσχρῄζετε.</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">σοὶ πρῶτον, Ἰοῖ, πολύδονον πλάνην φράσω,</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἣν ἐγγράφου σὺ μνήμοσιν δέλτοις φρενῶν.</said></l>
+            <l cite="790" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true"> ὅταν περάσῃς ῥεῖθρον ἠπείροιν
+                ὅρον,</said></l>
+            <seg n="790a" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">πρὸς ἀντολὰς φλογῶπας ἡλιοστιβεῖς</said></seg>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">
+                    <gap instant="false"/>
+                </said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">πόντου περῶσα φλοῖσβον, ἔστʼ ἂν ἐξίκῃ</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">πρὸς Γοργόνεια πεδία Κισθήνης, ἵνα</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">αἱ Φορκίδες ναίουσι δηναιαὶ κόραι</said></l>
+            <l cite="795" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τρεῖς κυκνόμορφοι, κοινὸν ὄμμʼ
+                    ἐκτημέναι,</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">μονόδοντες, ἃς οὔθʼ ἥλιος προσδέρκεται</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀκτῖσιν οὔθʼ ἡ νύκτερος μήνη ποτέ.</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">πέλας δʼ ἀδελφαὶ τῶνδε τρεῖς κατάπτεροι,</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">δρακοντόμαλλοι Γοργόνες βροτοστυγεῖς,</said></l>
+            <l cite="800" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἃς θνητὸς οὐδεὶς εἰσιδὼν ἕξει
+                πνοάς.</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τοιοῦτο μέν σοι τοῦτο φρούριον λέγω:</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἄλλην δʼ ἄκουσον δυσχερῆ θεωρίαν:</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ὀξυστόμους γὰρ Ζηνὸς ἀκραγεῖς κύνας</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">γρῦπας φύλαξαι, τόν τε μουνῶπα στρατὸν</said></l>
+            <l cite="805" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">Ἀριμασπὸν ἱπποβάμονʼ, οἳ
+                χρυσόρρυτον</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">οἰκοῦσιν ἀμφὶ νᾶμα Πλούτωνος πόρου:</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τούτοις σὺ μὴ πέλαζε. τηλουρὸν δὲ γῆν</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἥξεις, κελαινὸν φῦλον, οἳ πρὸς ἡλίου</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ναίουσι πηγαῖς, ἔνθα ποταμὸς Αἰθίοψ.</said></l>
+            <l cite="810" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τούτου παρʼ ὄχθας ἕρφʼ, ἕως ἂν
+                ἐξίκῃ</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">καταβασμόν, ἔνθα Βιβλίνων ὀρῶν ἄπο</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἵησι σεπτὸν Νεῖλος εὔποτον ῥέος.</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">οὗτός σʼ ὁδώσει τὴν τρίγωνον ἐς χθόνα</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">Νειλῶτιν, οὗ δὴ τὴν μακρὰν ἀποικίαν,</said></l>
+            <l cite="815" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">Ἰοῖ, πέπρωται σοί τε καὶ τέκνοις
+                    κτίσαι.</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true"> τῶν δʼ εἴ τί σοι ψελλόν τε καὶ
+                δυσεύρετον,</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐπανδίπλαζε καὶ σαφῶς ἐκμάνθανε:</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">σχολὴ δὲ πλείων ἢ θέλω πάρεστί μοι.</said></l>
+
+
+
+
+            <l ana="lyric"><said who="Χορός" aloud="unknown" direct="true">εἰ μέν τι τῇδε λοιπὸν ἢ παρειμένον</said></l>
+            <l cite="820" ana="lyric"><said who="Χορός" aloud="unknown" direct="true">ἔχεις γεγωνεῖν τῆς πολυφθόρου
+                πλάνης,</said></l>
+            <l ana="lyric"><said who="Χορός" aloud="unknown" direct="true">λέγʼ: εἰ δὲ πάντʼ εἴρηκας, ἡμῖν αὖ χάριν</said></l>
+            <l ana="lyric"><said who="Χορός" aloud="unknown" direct="true">δὸς ἥνπερ αἰτούμεσθα, μέμνησαι δέ που.</said></l>
+
+
+
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τὸ πᾶν πορείας ἥδε τέρμʼ ἀκήκοεν.</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ὅπως δʼ ἂν εἰδῇ μὴ μάτην κλύουσά μου,</said></l>
+            <l cite="825" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἃ πρὶν μολεῖν δεῦρʼ ἐκμεμόχθηκεν
+                    φράσω,</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τεκμήριον τοῦτʼ αὐτὸ δοὺς μύθων ἐμῶν.</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true"> ὄχλον μὲν οὖν τὸν πλεῖστον ἐκλείψω
+                λόγων,</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">πρὸς αὐτὸ δʼ εἶμι τέρμα σῶν πλανημάτων.</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true"> ἐπεὶ γὰρ ἦλθες πρὸς Μολοσσὰ γάπεδα,</said></l>
+            <l cite="830" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τὴν αἰπύνωτόν τʼ ἀμφὶ Δωδώνην,
+                ἵνα</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">μαντεῖα θᾶκός τʼ ἐστὶ Θεσπρωτοῦ Διός,</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τέρας τʼ ἄπιστον, αἱ προσήγοροι δρύες,</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ὑφʼ ὧν σὺ λαμπρῶς κοὐδὲν αἰνικτηρίως</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">προσηγορεύθης ἡ Διὸς κλεινὴ δάμαρ</said></l>
+            <l cite="835" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">μέλλουσʼ ἔσεσθαι. τῶνδε προσσαίνει σέ τι
+                    ;</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐντεῦθεν οἰστρήσασα τὴν παρακτίαν</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">κέλευθον ᾖξας πρὸς μέγαν κόλπον Ῥέας,</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀφʼ οὗ παλιμπλάγκτοισι χειμάζῃ δρόμοις:</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">χρόνον δὲ τὸν μέλλοντα πόντιος μυχός,</said></l>
+            <l cite="840" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">σαφῶς ἐπίστασʼ, Ἰόνιος
+                κεκλήσεται,.</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τῆς σῆς πορείας μνῆμα τοῖς πᾶσιν
+                βροτοῖς.</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true"> σημεῖά σοι τάδʼ ἐστὶ τῆς ἐμῆς φρενός,</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ὡς δέρκεται πλέον τι τοῦ πεφασμένου.</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τὰ λοιπὰ δʼ ὑμῖν τῇδέ τʼ ἐς κοινὸν
+                φράσω,</said></l>
+            <l cite="845" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐς ταὐτὸν ἐλθὼν τῶν πάλαι λόγων
+                    ἴχνος.</said></l>
+
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true"> ἔστιν πόλις Κάνωβος ἐσχάτη χθονός,</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">Νείλου πρὸς αὐτῷ στόματι καὶ προσχώματι:</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐνταῦθα δή σε Ζεὺς τίθησιν ἔμφρονα</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐπαφῶν ἀταρβεῖ χειρὶ καὶ θιγὼν μόνον.</said></l>
+            <l cite="850" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐπώνυμον δὲ τῶν Διὸς γεννημάτων</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τέξεις κελαινὸν Ἔπαφον, ὃς καρπώσεται</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ὅσην πλατύρρους Νεῖλος ἀρδεύει χθόνα:</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">πέμπτη δʼ ἀπʼ αὐτοῦ γέννα πεντηκοντάπαις</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">πάλιν πρὸς Ἄργος οὐχ ἑκοῦσʼ ἐλεύσεται</said></l>
+            <l cite="855" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">θηλύσπορος, φεύγουσα συγγενῆ
+                γάμον</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀνεψιῶν: οἱ δʼ ἐπτοημένοι φρένας,</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">κίρκοι πελειῶν οὐ μακρὰν λελειμμένοι,</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ἥξουσι θηρεύοντες οὐ θηρασίμους</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">γάμους, φθόνον δὲ σωμάτων ἕξει θεός:</said></l>
+            <l cite="860" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">Πελασγία δὲ δέξεται θηλυκτόνῳ</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">Ἄρει, δαμέντων νυκτιφρουρήτῳ θράσει.</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">γυνὴ γὰρ ἄνδρʼ ἕκαστον αἰῶνος στερεῖ,</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">δίθηκτον ἐν σφαγαῖσι βάψασα ξίφος:</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τοιάδʼ ἐπʼ ἐχθροὺς τοὺς ἐμοὺς ἔλθοι
+                Κύπρις.</said></l>
+            <l cite="865" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">μίαν δὲ παίδων ἵμερος θέλξει τὸ
+                μὴ</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">κτεῖναι σύνευνον, ἀλλʼ ἀπαμβλυνθήσεται</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">γνώμην: δυοῖν δὲ θάτερον βουλήσεται,</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">κλύειν ἄναλκις μᾶλλον ἢ μιαιφόνος:</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">αὕτη κατʼ Ἄργος βασιλικὸν τέξει γένος.</said></l>
+            <l cite="870" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">μακροῦ λόγου δεῖ ταῦτʼ ἐπεξελθεῖν
+                    τορῶς.</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">σπορᾶς γε μὴν ἐκ τῆσδε φύσεται θρασὺς</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">τόξοισι κλεινός, ὃς πόνων ἐκ τῶνδʼ ἐμὲ</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">λύσει. τοιόνδε χρησμὸν ἡ παλαιγενὴς</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">μήτηρ ἐμοὶ διῆλθε Τιτανὶς Θέμις:</said></l>
+            <l cite="875" ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">ὅπως δὲ χὤπη, ταῦτα δεῖ μακροῦ
+                λόγου</said></l>
+            <l ana="lyric"><said who="Προμηθεύς" aloud="unknown" direct="true">εἰπεῖν, σύ τʼ οὐδὲν ἐκμαθοῦσα κερδανεῖς.</said></l>
+
+
+
+
+
+
+            <l ana="anapests"><said who="Ἰώ" aloud="unknown" direct="true">ἐλελεῦ ἐλελεῦ,</said></l>
+            <l ana="anapests"><said who="Ἰώ" aloud="unknown" direct="true">ὑπό μʼ αὖ σφάκελος καὶ φρενοπληγεῖς</said></l>
+            <l ana="anapests"><said who="Ἰώ" aloud="unknown" direct="true">μανίαι θάλπουσʼ, οἴστρου δʼ ἄρδις</said></l>
+            <l cite="880" ana="anapests"><said who="Ἰώ" aloud="unknown" direct="true">χρίει μʼ ἄπυρος:</said></l>
+            <l ana="anapests"><said who="Ἰώ" aloud="unknown" direct="true">κραδία δὲ φόβῳ φρένα λακτίζει.</said></l>
+            <l ana="anapests"><said who="Ἰώ" aloud="unknown" direct="true">τροχοδινεῖται δʼ ὄμμαθʼ ἑλίγδην,</said></l>
+            <l ana="anapests"><said who="Ἰώ" aloud="unknown" direct="true">ἔξω δὲ δρόμου φέρομαι λύσσης</said></l>
+            <l ana="anapests"><said who="Ἰώ" aloud="unknown" direct="true">πνεύματι μάργῳ, γλώσσης ἀκρατής:</said></l>
+            <l cite="885" ana="anapests"><said who="Ἰώ" aloud="unknown" direct="true">θολεροὶ δὲ λόγοι παίουσʼ εἰκῆ</said></l>
+            <l ana="anapests"><said who="Ἰώ" aloud="unknown" direct="true">στυγνῆς πρὸς κύμασιν ἄτης.</said></l>
+
+
+
+
+
+
+
+
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">ἦ σοφὸς ἦ σοφὸς <del status="unremarkable" instant="false">ἦν</del> ὃς</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">πρῶτος ἐν γνώμᾳ τόδʼ ἐβάστασε καὶ γλώσ-</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">σᾳ διεμυθολόγησεν,</said></l>
+            <l cite="890" ana="strophe"><said who="Χορός" aloud="unknown" direct="true">ὡς τὸ κηδεῦσαι καθʼ ἑαυτὸν ἀριστεύει
+                    μακρῷ,</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">καὶ μήτε τῶν πλούτῳ διαθρυπτομένων</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">μήτε τῶν γέννᾳ μεγαλυνομένων</said></l>
+            <l ana="strophe"><said who="Χορός" aloud="unknown" direct="true">ὄντα χερνήταν ἐραστεῦσαι γάμων.</said></l>
+
+
+
+
+
+
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">μήποτε μήποτέ μʼ, ὦ</said></l>
+            <l cite="895" ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">
+                    <add instant="false" status="unremarkable">πότνιαι</add> Μοῖραι, λεχέων Διὸς
+                    εὐνά-</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">τειραν ἴδοισθε πέλουσαν:</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">μηδὲ πλαθείην γαμέτᾳ τινὶ τῶν ἐξ
+                οὐρανοῦ.</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">ταρβῶ γὰρ ἀστεργάνορα παρθενίαν</said></l>
+            <l ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">εἰσορῶσʼ Ἰοῦς ἀμαλαπτομέναν</said></l>
+            <l cite="900" ana="antistrophe"><said who="Χορός" aloud="unknown" direct="true">δυσπλάνοις Ἥρας ἀλατείαις
+                πόνων.</said></l>
+
+
+
+
+
+
+            <l ana="epode"><said who="Χορός" aloud="unknown" direct="true">ἐμοὶ δʼ ὅτε μὲν ὁμαλὸς ὁ γάμος,</said></l>
+            <l ana="epode"><said who="Χορός" aloud="unknown" direct="true">ἄφοβος: <del status="unremarkable" instant="false">οὐ
+                        δέδια:</del> μηδὲ κρεισσόνων θεῶν</said></l>
+            <l ana="epode"><said who="Χορός" aloud="unknown" direct="true">ἔρως ἄφυκτον ὄμμα προσδράκοι με.</said></l>
+            <l ana="epode"><said who="Χορός" aloud="unknown" direct="true">ἀπόλεμος ὅδε γʼ ὁ πόλεμος, ἄπορα πόριμος:</said></l>
+            <l cite="905" ana="epode"><said who="Χορός" aloud="unknown" direct="true">οὐδʼ ἔχω τίς ἂν γενοίμαν.</said></l>
+            <l ana="epode"><said who="Χορός" aloud="unknown" direct="true">τὰν Διὸς γὰρ οὐχ ὁρῶ</said></l>
+            <seg n="906b" ana="epode"><said who="Χορός" aloud="unknown" direct="true">μῆτιν ὅπα φύγοιμʼ ἄν.</said></seg>
+
+
+
+
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἦ μὴν ἔτι Ζεύς, καίπερ αὐθάδης φρενῶν,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἔσται ταπεινός, οἷον ἐξαρτύεται</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">γάμον γαμεῖν, ὃς αὐτὸν ἐκ τυραννίδος</said></l>
+            <l cite="910" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">θρόνων τʼ ἄιστον ἐκβαλεῖ: πατρὸς δʼ
+                    ἀρὰ</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">Κρόνου τότʼ ἤδη παντελῶς κρανθήσεται,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἣν ἐκπίτνων ἠρᾶτο δηναιῶν θρόνων.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τοιῶνδε μόχθων ἐκτροπὴν οὐδεὶς θεῶν</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">δύναιτʼ ἂν αὐτῷ πλὴν ἐμοῦ δεῖξαι
+                σαφῶς.</said></l>
+            <l cite="915" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐγὼ τάδʼ οἶδα χᾦ τρόπῳ. πρὸς ταῦτά
+                    νυν</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">θαρσῶν καθήσθω τοῖς πεδαρσίοις κτύποις</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">πιστός, τινάσσων τʼ ἐν χεροῖν πύρπνουν
+                    βέλος.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">οὐδὲν γὰρ αὐτῷ ταῦτʼ ἐπαρκέσει τὸ μὴ
+                οὐ</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">πεσεῖν ἀτίμως πτώματʼ οὐκ ἀνασχετά:</said></l>
+            <l cite="920" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τοῖον παλαιστὴν νῦν
+                παρασκευάζεται</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐπʼ αὐτὸς αὑτῷ, δυσμαχώτατον τέρας:</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὃς δὴ κεραυνοῦ κρείσσονʼ εὑρήσει
+                φλόγα,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">βροντῆς θʼ ὑπερβάλλοντα καρτερὸν
+                κτύπον:</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">θαλασσίαν τε γῆς τινάκτειραν νόσον</said></l>
+            <l cite="925" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τρίαιναν, αἰχμὴν τὴν Ποσειδῶνος,
+                    σκεδᾷ.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">πταίσας δὲ τῷδε πρὸς κακῷ μαθήσεται</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὅσον τό τʼ ἄρχειν καὶ τὸ δουλεύειν
+                δίχα.</said></l>
+
+
+
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">σύ θην ἃ χρῄζεις, ταῦτʼ ἐπιγλωσσᾷ Διός.</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἅπερ τελεῖται, πρὸς δʼ ἃ βούλομαι
+                λέγω.</said></l>
+
+
+
+            <l cite="930" ana="episode"><said who="Χορός" aloud="unknown" direct="true">καὶ προσδοκᾶν χρὴ δεσπόσειν Ζηνός
+                    τινα;</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">καὶ τῶνδέ γʼ, ἕξει δυσλοφωτέρους
+                πόνους.</said></l>
+
+
+
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">πῶς δʼ οὐχὶ ταρβεῖς τοιάδʼ ἐκρίπτων ἔπη;</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τί δʼ ἂν φοβοίμην ᾧ θανεῖν οὐ
+                μόρσιμον;</said></l>
+
+
+
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">ἀλλʼ ἆθλον ἄν σοι τοῦδʼ ἔτʼ ἀλγίω πόροι.</said></l>
+
+
+
+            <l cite="935" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὁ δʼ οὖν ποιείτω: πάντα προσδοκητά
+                    μοι.</said></l>
+
+
+
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">οἱ προσκυνοῦντες τὴν Ἀδράστειαν σοφοί.</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">σέβου, προσεύχου, θῶπτε τὸν κρατοῦντʼ
+                ἀεί.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐμοὶ δʼ ἔλασσον Ζηνὸς ἢ μηδὲν μέλει.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">δράτω, κρατείτω τόνδε τὸν βραχὺν
+                χρόνον,</said></l>
+            <l cite="940" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὅπως θέλει: δαρὸν γὰρ οὐκ ἄρξει
+                    θεοῖς.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀλλʼ εἰσορῶ γὰρ τόνδε τὸν Διὸς τρόχιν,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τὸν τοῦ τυράννου τοῦ νέου διάκονον:</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">πάντως τι καινὸν ἀγγελῶν ἐλήλυθεν.</said></l>
+
+
+
+
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">σὲ τὸν σοφιστήν, τὸν πικρῶς ὑπέρπικρον,</said></l>
+            <l cite="945" ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">τὸν ἐξαμαρτόντʼ εἰς θεοὺς
+                ἐφημέροις</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">πορόντα τιμάς, τὸν πυρὸς κλέπτην λέγω:</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">πατὴρ ἄνωγέ σʼ οὕστινας κομπεῖς γάμους</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">αὐδᾶν, πρὸς ὧν ἐκεῖνος ἐκπίπτει κράτους.</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">καὶ ταῦτα μέντοι μηδὲν αἰνικτηρίως,</said></l>
+            <l cite="950" ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">ἀλλʼ αὔθʼ ἕκαστα φράζε: μηδέ μοι
+                    διπλᾶς</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">ὁδούς, Προμηθεῦ, προσβάλῃς: ὁρᾷς δʼ ὅτι</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">Ζεὺς τοῖς τοιούτοις οὐχὶ μαλθακίζεται.</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">σεμνόστομός γε καὶ φρονήματος πλέως</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὁ μῦθός ἐστιν, ὡς θεῶν ὑπηρέτου.</said></l>
+            <l cite="955" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">νέον νέοι κρατεῖτε καὶ δοκεῖτε
+                δὴ</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ναίειν ἀπενθῆ πέργαμʼ: οὐκ ἐκ τῶνδʼ
+                ἐγὼ</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">δισσοὺς τυράννους ἐκπεσόντας ᾐσθόμην;</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τρίτον δὲ τὸν νῦν κοιρανοῦντʼ ἐπόψομαι</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">αἴσχιστα καὶ τάχιστα. μή τί σοι δοκῶ</said></l>
+            <l cite="960" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ταρβεῖν ὑποπτήσσειν τε τε τοὺς νέους
+                    θεούς;</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">πολλοῦ γε καὶ τοῦ παντὸς ἐλλείπω. σὺ
+                δὲ</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">κέλευθον ἥνπερ ἦλθες ἐγκόνει πάλιν:</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">πεύσῃ γὰρ οὐδὲν ὧν ἀνιστορεῖς ἐμέ.</said></l>
+
+
+
+
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">τοιοῖσδε μέντοι καὶ πρὶν αὐθαδίσμασιν</said></l>
+            <l cite="965" ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">ἐς τάσδε σαυτὸν πημονὰς
+                καθώρμισας.</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">τῆς σῆς λατρείας τὴν ἐμὴν δυσπραξίαν,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">σαφῶς ἐπίστασʼ, οὐκ ἂν ἀλλάξαιμʼ ἐγώ.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">κρεῖσσον γὰρ οἶμαι τῇδε λατρεύειν πέτρᾳ</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">ἢ πατρὶ φῦναι Ζηνὶ πιστὸν ἄγγελον.</said></l>
+
+
+
+            <l cite="970" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">οὕτως ὑβρίζειν τοὺς ὑβρίζοντας
+                    χρεών.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">χλιδᾶν ἔοικας τοῖς παροῦσι πράγμασι.</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">χλιδῶ; χλιδῶντας ὧδε τοὺς ἐμοὺς ἐγὼ</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐχθροὺς ἴδοιμι: καὶ σὲ δʼ ἐν τούτοις
+                λέγω.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">ἦ κἀμὲ γάρ τι συμφοραῖς ἐπαιτιᾷ;</said></l>
+
+
+
+            <l cite="975" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἁπλῷ λόγῳ τοὺς πάντας ἐχθαίρω
+                    θεούς,</said></l>
+            <seg n="975a" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὅσοι παθόντες εὖ κακοῦσί μʼ ἐκδίκως.</said></seg>
+
+
+
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">κλύω σʼ ἐγὼ μεμηνότʼ οὐ σμικρὰν νόσον.</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">νοσοῖμʼ ἄν, εἰ νόσημα τοὺς ἐχθροὺς
+                    στυγεῖν.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">εἴης φορητὸς οὐκ ἄν, εἰ πράσσοις καλῶς.</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">
+                    <add instant="false" status="unremarkable">ὤμοι.</add>
+                </said></l>
+
+
+
+            <l cite="980" ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">ὤμοι; τόδε Ζεὺς τοὔπος οὐκ
+                ἐπίσταται.</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀλλʼ ἐκδιδάσκει πάνθʼ ὁ γηράσκων
+                χρόνος.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">καὶ μὴν σύ γʼ οὔπω σωφρονεῖν ἐπίστασαι.</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">σὲ γὰρ προσηύδων οὐκ ἂν ὄνθʼ ὑπηρέτην.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">ἐρεῖν ἔοικας οὐδὲν ὧν χρῄζει πατήρ.</said></l>
+
+
+
+            <l cite="985" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">καὶ μὴν ὀφείλων γʼ ἂν τίνοιμʼ αὐτῷ
+                    χάριν.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">ἐκερτόμησας δῆθεν ὡς παῖδʼ ὄντα με.</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">οὐ γὰρ σὺ παῖς τε κἄτι τοῦδʼ
+                ἀνούστερος</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">εἰ προσδοκᾷς ἐμοῦ τι πεύσεσθαι πάρα;</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">οὐκ ἔστιν αἴκισμʼ οὐδὲ μηχάνημʼ ὅτῳ</said></l>
+            <l cite="990" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">προτρέψεταί με Ζεὺς γεγωνῆσαι
+                    τάδε,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">πρὶν ἂν χαλασθῇ δεσμὰ λυμαντήρια.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">πρὸς ταῦτα ῥιπτέσθω μὲν αἰθαλοῦσσα
+                φλόξ,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">λευκοπτέρῳ δὲ νιφάδι καὶ βροντήμασι</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">χθονίοις κυκάτω πάντα καὶ ταρασσέτω.</said></l>
+            <l cite="995" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">γνάμψει γὰρ οὐδὲν τῶνδέ μʼ ὥστε καὶ
+                    φράσαι</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">πρὸς οὗ χρεών νιν ἐκπεσεῖν τυραννίδος.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">ὅρα νυν εἴ σοι ταῦτʼ ἀρωγὰ φαίνεται.</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὦπται πάλαι δὴ καὶ βεβούλευται τάδε.</said></l>
+
+
+
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">τόλμησον, ὦ μάταιε, τόλμησόν ποτε</said></l>
+            <l cite="1000" ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">πρὸς τὰς παρούσας πημονὰς ὀρθῶς
+                    φρονεῖν,</said></l>
+
+
+
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">ὀχλεῖς μάτην με κῦμʼ ὅπως παρηγορῶν.</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">εἰσελθέτω σε μήποθʼ ὡς ἐγὼ Διὸς</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">γνώμην φοβηθεὶς θηλύνους γενήσομαι,</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">καὶ λιπαρήσω τὸν μέγα στυγούμενον</said></l>
+            <l cite="1005" ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">γυναικομίμοις ὑπτιάσμασιν
+                χερῶν</said></l>
+            <l ana="episode"><said who="Προμηθεύς" aloud="unknown" direct="true">λῦσαί με δεσμῶν τῶνδε: τοῦ παντὸς δέω.</said></l>
+
+
+
+
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">λέγων ἔοικα πολλὰ καὶ μάτην ἐρεῖν:</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">τέγγῃ γὰρ οὐδὲν οὐδὲ μαλθάσσῃ λιταῖς</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">ἐμαῖς: δακὼν δὲ στόμιον ὡς νεοζυγὴς</said></l>
+            <l cite="1010" ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">πῶλος βιάζῃ καὶ πρὸς ἡνίας μάχῃ.</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">ἀτὰρ σφοδρύνῃ γʼ ἀσθενεῖ σοφίσματι:</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">αὐθαδία γὰρ τῷ φρονοῦντι μὴ καλῶς</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">αὐτὴ καθʼ αὑτὴν οὐδενὸς μεῖζον σθένει.</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">σκέψαι δʼ, ἐὰν μὴ τοῖς ἐμοῖς πεισθῇς
+                λόγοις,</said></l>
+            <l cite="1015" ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">οἷός σε χειμὼν καὶ κακῶν τρικυμία</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">ἔπεισʼ ἄφυκτος : πρῶτα μὲν γὰρ ὀκρίδα</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">φάραγγα βροντῇ καὶ κεραυνίᾳ φλογὶ</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">πατὴρ σπαράξει τήνδε, καὶ κρύψει δέμας</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">τὸ σόν, πετραία δʼ ἀγκάλη σε βαστάσει.</said></l>
+            <l cite="1020" ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">μακρὸν δὲ μῆκος ἐκτελευτήσας
+                χρόνου</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">ἄψορρον ἥξεις εἰς φάος: Διὸς δέ τοί</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">πτηνὸς κύων, δαφοινὸς αἰετός, λάβρως</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">διαρταμήσει σώματος μέγα ῥάκος,</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">ἄκλητος ἕρπων δαιταλεὺς πανήμερος,</said></l>
+            <l cite="1025" ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">κελαινόβρωτον δʼ ἧπαρ
+                ἐκθοινήσεται.</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true"> τοιοῦδε μόχθου τέρμα μή τι προσδόκα,</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">πρὶν ἂν θεῶν τις διάδοχος τῶν σῶν πόνων</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">φανῇ, θελήσῃ τʼ εἰς ἀναύγητον μολεῖν</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">Ἅιδην κνεφαῖά τʼ ἀμφὶ Ταρτάρου βάθη.</said></l>
+            <l cite="1030" ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true"> πρὸς ταῦτα βούλευʼ: ὡς ὅδʼ οὐ
+                    πεπλασμένος</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">ὁ κόμπος, ἀλλὰ καὶ λίαν εἰρημένος :</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">ψευδηγορεῖν γὰρ οὐκ ἐπίσταται στόμα</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">τὸ Δῖον, ἀλλὰ πᾶν ἔπος τελεῖ: σὺ δὲ</said></l>
+            <l ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">πάπταινε καὶ φρόντιζε, μηδʼ αὐθαδίαν</said></l>
+            <l cite="1035" ana="episode"><said who="Ἑρμῆς" aloud="unknown" direct="true">εὐβουλίας ἀμείνονʼ ἡγήσῃ ποτέ.</said></l>
+
+
+
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">ἡμῖν μὲν Ἑρμῆς οὐκ ἄκαιρα φαίνεται</said></l>
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">λέγειν. ἄνωγε γάρ σε τὴν αὐθαδίαν</said></l>
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">μεθέντʼ ἐρευνᾶν τὴν σοφὴν εὐβουλίαν.</said></l>
+            <l ana="episode"><said who="Χορός" aloud="unknown" direct="true">πιθοῦ: σοφῷ γὰρ αἰσχρὸν ἐξαμαρτάνειν.</said></l>
+
+
+
+
+
+            <l cite="1040" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">εἰδότι τοί μοι τάσδʼ
+                ἀγγελίας</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ὅδʼ ἐθώυξεν: πάσχειν δὲ κακῶς</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐχθρὸν ὑπʼ ἐχθρῶν οὐδὲν ἀεικές.</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">πρὸς ταῦτʼ ἐπʼ ἐμοὶ ῥιπτέσθω μὲν</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">πυρὸς ἀμφήκης βόστρυχος, αἰθὴρ δʼ</said></l>
+            <l cite="1045" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐρεθιζέσθω βροντῇ σφακέλῳ τʼ</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἀγρίων ἀνέμων: χθόνα δʼ ἐκ πυθμένων</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">αὐταῖς ῥίζαις πνεῦμα κραδαίνοι,</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">κῦμα δὲ πόντου τραχεῖ ῥοθίῳ</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">συγχώσειεν τῶν οὐρανίων</said></l>
+            <l cite="1050" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἄστρων διόδους: εἴς τε
+                κελαινὸν</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">Τάρταρον ἄρδην ῥίψειε δέμας</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τοὐμὸν ἀνάγκης στερραῖς δίναις:</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">πάντως ἐμέ γʼ οὐ θανατώσει.</said></l>
+
+
+
+
+
+            <l ana="anapests"><said who="Ἑρμῆς" aloud="unknown" direct="true">τοιάδε μέντοι τῶν φρενοπλήκτων</said></l>
+            <l cite="1055" ana="anapests"><said who="Ἑρμῆς" aloud="unknown" direct="true">βουλεύματʼ ἔπη τʼ ἔστιν ἀκοῦσαι.</said></l>
+            <l ana="anapests"><said who="Ἑρμῆς" aloud="unknown" direct="true">τί γὰρ ἐλλείπει μὴ <add instant="false" status="unremarkable">οὐ</add> παραπαίειν</said></l>
+            <l ana="anapests"><said who="Ἑρμῆς" aloud="unknown" direct="true">ἡ τοῦδʼ εὐχή; τί χαλᾷ μανιῶν;</said></l>
+            <l ana="anapests"><said who="Ἑρμῆς" aloud="unknown" direct="true">ἀλλʼ οὖν ὑμεῖς γʼ αἱ πημοσύναις</said></l>
+            <l ana="anapests"><said who="Ἑρμῆς" aloud="unknown" direct="true">συγκάμνουσαι ταῖς τοῦδε τόπων</said></l>
+            <l cite="1060" ana="anapests"><said who="Ἑρμῆς" aloud="unknown" direct="true">μετά ποι χωρεῖτʼ ἐκ τῶνδε θοῶς,</said></l>
+            <l ana="anapests"><said who="Ἑρμῆς" aloud="unknown" direct="true">μὴ φρένας ὑμῶν ἠλιθιώσῃ</said></l>
+            <l ana="anapests"><said who="Ἑρμῆς" aloud="unknown" direct="true">βροντῆς μύκημʼ ἀτέραμνον.</said></l>
+
+
+
+
+
+            <l ana="anapests"><said who="Χορός" aloud="unknown" direct="true">ἄλλο τι φώνει καὶ παραμυθοῦ μʼ</said></l>
+            <l ana="anapests"><said who="Χορός" aloud="unknown" direct="true">ὅ τι καὶ πείσεις: οὐ γὰρ δή που</said></l>
+            <l cite="1065" ana="anapests"><said who="Χορός" aloud="unknown" direct="true">τοῦτό γε τλητὸν παρέσυρας ἔπος.</said></l>
+            <l ana="anapests"><said who="Χορός" aloud="unknown" direct="true">πῶς με κελεύεις κακότητʼ ἀσκεῖν;</said></l>
+            <l ana="anapests"><said who="Χορός" aloud="unknown" direct="true">μετὰ τοῦδʼ ὅ τι χρὴ πάσχειν ἐθέλω:</said></l>
+            <l ana="anapests"><said who="Χορός" aloud="unknown" direct="true">τοὺς προδότας γὰρ μισεῖν ἔμαθον,</said></l>
+            <l ana="anapests"><said who="Χορός" aloud="unknown" direct="true">κοὐκ ἔστι νόσος</said></l>
+            <l cite="1070" ana="anapests"><said who="Χορός" aloud="unknown" direct="true">τῆσδʼ ἥντινʼ ἀπέπτυσα μᾶλλον.</said></l>
+
+
+
+
+
+            <l ana="anapests"><said who="Ἑρμῆς" aloud="unknown" direct="true">ἀλλʼ οὖν μέμνησθʼ ἁγὼ προλέγω</said></l>
+            <l ana="anapests"><said who="Ἑρμῆς" aloud="unknown" direct="true">μηδὲ πρὸς ἄτης θηραθεῖσαι</said></l>
+            <l ana="anapests"><said who="Ἑρμῆς" aloud="unknown" direct="true">μέμψησθε τύχην, μηδέ ποτʼ εἴπηθʼ</said></l>
+            <l ana="anapests"><said who="Ἑρμῆς" aloud="unknown" direct="true">ὡς Ζεὺς ὑμᾶς εἰς ἀπρόοπτον</said></l>
+            <l cite="1075" ana="anapests"><said who="Ἑρμῆς" aloud="unknown" direct="true">πῆμʼ εἰσέβαλεν: μὴ δῆτʼ αὐταὶ δʼ</said></l>
+            <l ana="anapests"><said who="Ἑρμῆς" aloud="unknown" direct="true">ὑμᾶς αὐτάς. εἰδυῖαι γὰρ</said></l>
+            <l ana="anapests"><said who="Ἑρμῆς" aloud="unknown" direct="true">κοὐκ ἐξαίφνης οὐδὲ λαθραίως</said></l>
+            <l ana="anapests"><said who="Ἑρμῆς" aloud="unknown" direct="true">εἰς ἀπέρατον δίκτυον ἄτης</said></l>
+            <l ana="anapests"><said who="Ἑρμῆς" aloud="unknown" direct="true">ἐμπλεχθήσεσθʼ ὑπʼ ἀνοίας.</said></l>
+
+
+
+
+            <l cite="1080" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">καὶ μὴν ἔργῳ κοὐκέτι μύθῳ</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">χθὼν σεσάλευται:</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">βρυχία δʼ ἠχὼ παραμυκᾶται</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">βροντῆς, ἕλικες δʼ ἐκλάμπουσι</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">στεροπῆς ζάπυροι, στρόμβοι δὲ κόνιν</said></l>
+            <l cite="1085" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">εἱλίσσουσι: σκιρτᾷ δʼ ἀνέμων</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">πνεύματα πάντων εἰς ἄλληλα</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">στάσιν ἀντίπνουν ἀποδεικνύμενα:</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ξυντετάρακται δʼ αἰθὴρ πόντῳ.</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τοιάδʼ ἐπʼ ἐμοὶ ῥιπὴ Διόθεν</said></l>
+            <l cite="1090" ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">τεύχουσα φόβον στείχει
+                φανερῶς.</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ὦ μητρὸς ἐμῆς σέβας, ὦ πάντων</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">αἰθὴρ κοινὸν φάος εἱλίσσων,</said></l>
+            <l ana="anapests"><said who="Προμηθεύς" aloud="unknown" direct="true">ἐσορᾷς μʼ ὡς ἔκδικα πάσχω.</said></l>
+
+
+
+        </body>
+    </text>
+</TEI>
