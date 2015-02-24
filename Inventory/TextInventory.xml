@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:TextInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TextInventory tiversion="5.0.rc.1" xmlns="http://chs.harvard.edu/xmlns/cts">
+    <ctsnamespace abbr="greekLit" ns="chs.harvard.edu/ctsns">
+        <description xml:lang="eng">The "First Thousand Years of Greek" project's inventory of Greek texts.</description>
+    </ctsnamespace>
+    <ctsnamespace abbr="latinLit" ns="http://perseus.org/namespaces/cts/latinLit">
+        <description xml:lang="eng">Latin texts hosted by the Perseus Digital Library</description>
+    </ctsnamespace>
+    
+   
+    <textgroup urn="urn:cts:greekLit:tlg0085">
+        <groupname xml:lang="eng">Aeschylus</groupname>
+        <work urn="urn:cts:greekLit:tlg0085.tlg003" xml:lang="grc">
+            <title xml:lang="eng">Prometheus Bound</title>
+            <title xml:lang="lat">Prometheus Vinctus</title>
+            <edition urn="urn:cts:greekLit:tlg0085.tlg003.fu01">
+                <label xml:lang="eng">Base Text</label>
+                <description xml:lang="eng">Based on the Smyth's edition, the Perseus Digital Library's text, edited to conform to Mambrini's syntax.</description>
+                <online docname="fu-smyth-tok.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:l[@n='?']"/>
+                    </citationMapping>
+                </online>
+            </edition>
+           <!-- <edition urn="urn:cts:greekLit:tlg0085.tlg003.fuSyn">
+                <label xml:lang="eng">Tokenized for syntax</label>
+                <description xml:lang="eng">Based on the Smyth's edition, the Perseus Digital Library's text, tokenized for syntactic treebanking</description>
+                <online docname="aesch-pv-tokens-numbered.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:l[@n='?']">
+                            <citation label="Token" scope="/tei:TEI/tei:text/tei:body/tei:l[@n='?']" xpath="/tei:w[@n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>-->
+           
+        </work>
+    </textgroup>
+   <!-- <textgroup urn="urn:cts:greekLit:tlg0011">
+        <groupname xml:lang="eng">Sophocles</groupname>
+        <work urn="urn:cts:greekLit:tlg0011.tlg004" xml:lang="grc">
+            <title xml:lang="eng">Oedipus Tyrannos</title>
+          
+            <edition urn="urn:cts:greekLit:tlg0011.tlg004.fu02">
+                <label xml:lang="eng">Edition based on Perseus's text, edited by Jebb. Speakers marked</label>
+                <online docname="ot-grc-speakers.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:l[@n='?']"/>
+                    </citationMapping>
+                </online>
+            </edition>
+         
+            <edition urn="urn:cts:greekLit:tlg0011.tlg004.fu04">
+                <label xml:lang="eng">Edition based on Perseus's text, edited by Jebb. Tokenized for syntax</label>
+                <online docname="ot-grc-tokenized.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:l[@n='?']">
+                            <citation label="Token" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:l[@n='?']" xpath="/tei:w[@n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+           
+        </work>
+    </textgroup>-->
+  
+</TextInventory>
