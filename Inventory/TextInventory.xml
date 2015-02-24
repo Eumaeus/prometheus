@@ -24,6 +24,62 @@
                     </citationMapping>
                 </online>
             </edition>
+            <edition urn="urn:cts:greekLit:tlg0085.tlg003.glas1829">
+                <label xml:lang="eng">Glasguense 1829</label>
+                <description xml:lang="eng">Glasguense 1829.</description>
+                <online docname="glasguense-pv-tokens.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:l[@n='?']"/>
+                    </citationMapping>
+                </online>
+            </edition>
+            
+            <edition urn="urn:cts:greekLit:tlg0085.tlg003.kirch1880">
+                <label xml:lang="eng">Kirchoff 1880</label>
+                <description xml:lang="eng">Kirchoff 1880.</description>
+                <online docname="kirchoff-pv-tokens.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:l[@n='?']"/>
+                    </citationMapping>
+                </online>
+            </edition>
+            
+            <!--<edition urn="urn:cts:greekLit:tlg0085.tlg003.blom1822">
+                <label xml:lang="eng">Blomfeld 1822</label>
+                <description xml:lang="eng">Blomfeld 1822.</description>
+                <online docname="blomfeld1822-pv-tokens.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:l[@n='?']"/>
+                    </citationMapping>
+                </online>
+            </edition>-->
+            
+            <!--<edition urn="urn:cts:greekLit:tlg0085.tlg003.blom1825">
+                <label xml:lang="eng">Blomfeld 1825</label>
+                <description xml:lang="eng">Blomfeld 1825.</description>
+                <online docname="blomfeld1825-pv-tokens.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:l[@n='?']"/>
+                    </citationMapping>
+                </online>
+            </edition>-->
+            
+            <edition urn="urn:cts:greekLit:tlg0085.tlg003.camp1898">
+                <label xml:lang="eng">Campbell 1898</label>
+                <description xml:lang="eng">Campbell 1898.</description>
+                <online docname="campbell-pv-tokens.xml">
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:l[@n='?']"/>
+                    </citationMapping>
+                </online>
+            </edition>
+            
+            
            <!-- <edition urn="urn:cts:greekLit:tlg0085.tlg003.fuSyn">
                 <label xml:lang="eng">Tokenized for syntax</label>
                 <description xml:lang="eng">Based on the Smyth's edition, the Perseus Digital Library's text, tokenized for syntactic treebanking</description>
