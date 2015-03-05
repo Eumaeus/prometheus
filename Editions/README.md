@@ -1,9 +1,5 @@
 #Editions:
 
-##Meta-data:
-
-####Done:
-
 - Blomfeld 1
 - Blomfeld 2
 - Campbell
@@ -11,31 +7,16 @@
 - Kirchoff
 - Mazon
 - Smyth
-
-###To do:
-
 - Hermann
 - Meinke
-- Moellendorff
+- Moellendorff  - *Needs hard copy editing*
 - Schütz 1
 - Schütz 2
+
+So far we have taken the metadata from these editions and created XML copies of each with the text from Smyth. We have also gone through all but Moellendorff for our hard copy editng.
 
 ##XML Editing:
 
-####Done:
+####Completed (up to line 42):
 
 - Campbell
-
-###To do:
-
-- Blomfeld 1
-- Blomfeld 2
-- Glasguense
-- Kirchoff
-- Mazon
-- Smyth
-- Hermann
-- Meinke
-- Moellendorff
-- Schütz 1
-- Schütz 2
