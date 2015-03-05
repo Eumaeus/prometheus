@@ -4,16 +4,16 @@
 - Blomfeld 2
 - Campbell
 - Glasguense
-- Hermann
 - Kirchoff
-- Mazon
+- Mazon - *Needs hard copy editing*
+- Smyth
+- Hermann
 - Meinke
-- Moellendorff  - *Needs hard copy editing*
+- Moellendorff - *Needs hard copy editing*
 - Schütz 1
 - Schütz 2
-- Smyth
 
-So far we have taken the metadata from these editions and created XML copies of each with the text from Smyth. We have also gone through all but Moellendorff for our hard copy editng.
+So far we have taken the metadata from these editions and created XML copies of each with the text from Smyth. We have also gone through all but Moellendorff and Mazon for our hard copy editng.
 
 ##XML Editing:
 
