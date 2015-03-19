@@ -7,24 +7,97 @@
     <ctsnamespace abbr="latinLit" ns="http://perseus.org/namespaces/cts/latinLit">
         <description xml:lang="eng">Latin texts hosted by the Perseus Digital Library</description>
     </ctsnamespace>
+    <textgroup
+        urn="urn:cts:greekLit:tlg0012:">
+        <groupname
+            xml:lang="eng"> Homeric epic</groupname>
+        <work
+            urn="urn:cts:greekLit:tlg0012.tlg001:"
+            xml:lang="grc">
+            <title
+                xml:lang="eng"> Iliad </title>
+            
+            <edition
+                urn="urn:cts:greekLit:tlg0012.tlg001.msA:">
+                <label
+                    xml:lang="eng"> Venetus A </label>
+                <description
+                    xml:lang="eng"> Iliad text of the Venetus A manuscript, Marciana 454 (=822). </description>
+                <online
+                    docname="VenetusA-Iliad.xml">
+                    <namespaceMapping
+                        abbreviation="tei"
+                        nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation
+                            label="book"
+                            scope="/tei:TEI/tei:text/tei:body"
+                            xpath="/tei:div[@n = '?']">
+                            <citation
+                                label="line"
+                                scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:l[@n = '?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition></work></textgroup>
+    <!--<textgroup urn="urn:cts:greekLit:tlg0012">
+        <groupname xml:lang="eng"> Homer </groupname>
+        <work urn="urn:cts:greekLit:tlg0012.tlg001" xml:lang="grc">
+            <title xml:lang="eng"> Iliad </title>
+    <edition urn="urn:cts:greekLit:tlg0012.tlg001.msA">
+        <label xml:lang="eng"> A </label>
+        <description xml:lang="eng"> Venice: Marcianus Graecus Z.454 (=822). </description>
+        <online docname="Iliad-A.xml">
+            
+            
+            <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+            <citationMapping>
+                <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
+                    <citation label="line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                        xpath="/tei:l[@n = '?']"/>
+                </citation>
+            </citationMapping>
+        </online>
+        <exemplar urn="urn:cts:greekLit:tlg0012.tlg001.msA.lex">
+            <label xml:lang="eng">Lexical Tokens</label>
+            <description xml:lang="eng">Derivitive exemplar tokenized for lexical entities ("words").</description>
+        </exemplar>
+    </edition>
+        </work></textgroup>-->
     
-   
-    <textgroup urn="urn:cts:greekLit:tlg0085">
+    <textgroup urn="urn:cts:greekLit:tlg0085:">
         <groupname xml:lang="eng">Aeschylus</groupname>
-        <work urn="urn:cts:greekLit:tlg0085.tlg003" xml:lang="grc">
+        <work urn="urn:cts:greekLit:tlg0085.tlg003:" xml:lang="grc">
             <title xml:lang="eng">Prometheus Bound</title>
             <title xml:lang="lat">Prometheus Vinctus</title>
-            <edition urn="urn:cts:greekLit:tlg0085.tlg003.fu01">
-                <label xml:lang="eng">Base Text</label>
+            <edition urn="urn:cts:greekLit:tlg0085.tlg003.fu01:">
+                <label xml:lang="eng">Smyth-Mambrini-short</label>
                 <description xml:lang="eng">Based on the Smyth's edition, the Perseus Digital Library's text, edited to conform to Mambrini's syntax.</description>
-                <online docname="fu-smyth-tok.xml">
+                <online docname="fu-smyth-tok-short.xml">
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:l[@n='?']"/>
                     </citationMapping>
                 </online>
+                
             </edition>
-            <edition urn="urn:cts:greekLit:tlg0085.tlg003.glas1829">
+           
+            <edition urn="urn:cts:greekLit:tlg0085.tlg003.fu01.synTok:">
+                 <label xml:lang="eng">Smyth, Tokenized for syntax, first 20 lines</label>
+                    <description xml:lang="eng">Based on the Smyth's edition, the Perseus Digital Library's text, tokenized for syntactic treebanking</description>
+                    <online docname="aesch-pv-tokens-numbered-small.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:l[@n='?']">
+                            <citation label="Token" scope="/tei:TEI/tei:text/tei:body/tei:l[@n='?']" xpath="/tei:w[@n='?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+           
+            <!--<edition urn="urn:cts:greekLit:tlg0085.tlg003.glas1829">
                 <label xml:lang="eng">Glasguense 1829</label>
                 <description xml:lang="eng">Glasguense 1829.</description>
                 <online docname="glasguense-pv-tokens.xml">
@@ -44,7 +117,7 @@
                         <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:l[@n='?']"/>
                     </citationMapping>
                 </online>
-            </edition>
+            </edition>-->
             
             <!--<edition urn="urn:cts:greekLit:tlg0085.tlg003.blom1822">
                 <label xml:lang="eng">Blomfeld 1822</label>
@@ -68,7 +141,7 @@
                 </online>
             </edition>-->
             
-            <edition urn="urn:cts:greekLit:tlg0085.tlg003.camp1898">
+            <!--<edition urn="urn:cts:greekLit:tlg0085.tlg003.camp1898">
                 <label xml:lang="eng">Campbell 1898</label>
                 <description xml:lang="eng">Campbell 1898.</description>
                 <online docname="campbell-pv-tokens.xml">
@@ -77,11 +150,12 @@
                         <citation label="Poetic Line" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:l[@n='?']"/>
                     </citationMapping>
                 </online>
-            </edition>
+            </edition>-->
             
+     
             
            <!-- <edition urn="urn:cts:greekLit:tlg0085.tlg003.fuSyn">
-                <label xml:lang="eng">Tokenized for syntax</label>
+                <label xml:lang="eng">Smyth, Tokenized for syntax</label>
                 <description xml:lang="eng">Based on the Smyth's edition, the Perseus Digital Library's text, tokenized for syntactic treebanking</description>
                 <online docname="aesch-pv-tokens-numbered.xml">
                     
