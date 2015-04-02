@@ -80,12 +80,12 @@ def pnot = ~/<l xmlns="http:\/\/www.tei-c.org\/ns\/1.0" +n=['"]([^"']+)['"]>/;
 
 //Get Ready to parse tab-files in directory!
 
-def tabDir = new File('.')
+def tabDir = new File('Tabs')
 def tabFiles = []
 tabDir.eachFile FileType.FILES,{
 	assert suffix instanceof Pattern
 	if (suffix.matcher(it.name) ){
-		tabFiles << it.name
+		tabFiles << "${tabDir.name}/${it.name}"
 	}
 }
 
