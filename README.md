@@ -1,34 +1,39 @@
-prometheus
+Prometheus Bound
 ==========
 
 Work toward a 21st Century Edition of Aeschylus’ Prometheus Bound.
 
-## What is Necessary for Generic Treatment of Syntax
+## Prometheus / eComparatio CTS Service
 
-- CTS must handle Exemplars properly.
-- In CITE Manager, automated generation of syntax-tokenized derivative editions.
-- [Stop-gap] How to reconcile existing syntax files with editions?
-	- Tokenize edition.
-	- Token-by-token comparison to syntax.
-	- Match first- and last-tokens of citation leaf-nodes.
-	- ???
-- Visualization of syntax for CTS texts in CiteServlet (demo works, sort of).
-- Better Syntax Editing Pipeline:
-	- Enter CTS-URN
-		- For tokenized edition… get tokens
-		- For non-tokenized edition… tokenize
-		- Test for "isLeafNode" somehow
-	- Do treebank
-	- See XML expression (in another jQuery tab?)
-		- copy-and-paste, or
-		- export single XML
-	- CiteManager:
-		- Directory of syntax files
-		- Generate "syntax.ttl" to be concatenated with final .ttl 
-- CiteKit (which needs a total rewrite with Angular.js) view of syntax-objects.
-- Diff?
-	- Easy: side-by-side view
-	- Harder: overlay view
-	- Graph-diff 
+As we further develop editions of the *Prometheus Bound* we will expose them through a [CTS Service](http://www.homermultitext.org/hmt-doc/cite/texts/cts.html). 
+
+### The CTS Service
+
+The base address for the CTS Service is:
+
+> [http://folio.furman.edu/ecomp-cts/api?](http://folio.furman.edu/ecomp-cts/api?)
+
+This implementation does not apply stylesheets for formatting XML output; this is by design.
+
+Some sample requests:
+
+- [Get Capabilities](http://folio.furman.edu/ecomp-cts/api?request=GetCapabilities)
+- [Get Valid Citations for the Furman edition, based on Smyth](http://folio.furman.edu/ecomp-cts/api?request=GetValidReff&level=1&urn=urn:cts:greekLit:tlg0085.tlg003.fu:)
+- [Get the text of lines 1-10 of the Furman edition](http://folio.furman.edu/ecomp-cts/api?request=GetPassage&urn=urn:cts:greekLit:tlg0085.tlg003.fu:1-10]
+- [Get Valid Citations for the Schütz edition of 1782, not complete at this point](http://folio.furman.edu/ecomp-cts/api?request=GetValidReff&level=1&urn=urn:cts:greekLit:tlg0085.tlg003.schutz1782:)
+- [Get the text of lines 1-10 of the Schütz edition](http://folio.furman.edu/ecomp-cts/api?request=GetPassage&urn=urn:cts:greekLit:tlg0085.tlg003.schutz1782:1-10)
+
+### The SparQL Endpoint
+
+The CTS Service draws its data from a SPARQL endpoint. [This is publically exposed here.](http://folio.furman.edu/snorql/)
+
+### The TTL Data
+
+The `.ttl` file containing the RDF that is behind the SparQL endpoint is at `ttl/cts.ttl` in this repository.
+
+### The XML Data
+
+The XML files that are the basis for the RDF are in `Editions/*`. The XML of the TextInventory file is at `Inventory/inventory.xml`. As part of processing the XML texts into RDF, we capture their semantics in tabulated plain-text files. These are at `tabulated/*.txt` in this repository.
+
 
 
