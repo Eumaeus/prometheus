@@ -19,7 +19,7 @@ Some sample requests:
 
 - [Get Capabilities](http://folio.furman.edu/ecomp-cts/api?request=GetCapabilities)
 - [Get Valid Citations for the Furman edition, based on Smyth](http://folio.furman.edu/ecomp-cts/api?request=GetValidReff&level=1&urn=urn:cts:greekLit:tlg0085.tlg003.fu:)
-- [Get the text of lines 1-10 of the Furman edition](http://folio.furman.edu/ecomp-cts/api?request=GetPassage&urn=urn:cts:greekLit:tlg0085.tlg003.fu:1-10]
+- [Get the text of lines 1-10 of the Furman edition](http://folio.furman.edu/ecomp-cts/api?request=GetPassage&urn=urn:cts:greekLit:tlg0085.tlg003.fu:1-10)
 - [Get Valid Citations for the Schütz edition of 1782, not complete at this point](http://folio.furman.edu/ecomp-cts/api?request=GetValidReff&level=1&urn=urn:cts:greekLit:tlg0085.tlg003.schutz1782:)
 - [Get the text of lines 1-10 of the Schütz edition](http://folio.furman.edu/ecomp-cts/api?request=GetPassage&urn=urn:cts:greekLit:tlg0085.tlg003.schutz1782:1-10)
 
